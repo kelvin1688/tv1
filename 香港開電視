@@ -1,0 +1,35 @@
+#EXTINF:-1,香港開電視
+http://219.79.135.154:8000/stream/channelid/370007191
+#EXTINF:-1,港台電視 31
+http://219.79.135.154:8000/stream/channelid/960598648
+#EXTINF:-1,港台電視 32
+http://219.79.135.154:8000/stream/channelid/1747102296
+#EXTINF:-1,HKIBC
+http://219.79.135.154:8000/stream/channelid/276995786
+#EXTINF:-1,翡翠台
+http://219.79.135.154:8000/stream/channelid/801916872
+#EXTINF:-1,J2台
+http://219.79.135.154:8000/stream/channelid/192643524
+#EXTINF:-1,無綫新聞台
+http://219.79.135.154:8000/stream/channelid/936288909
+#EXTINF:-1,明珠台
+http://219.79.135.154:8000/stream/channelid/304831280
+#EXTINF:-1,無綫財經 · 資訊台
+http://219.79.135.154:8000/stream/channelid/159929171
+#EXTINF:-1,ViuTVsix
+http://219.79.135.154:8000/stream/channelid/967023646
+#EXTINF:-1,ViuTV
+http://219.79.135.154:8000/stream/channelid/101403534
+CH8,http://101.127.128.44:9981/stream/channel/b7042ce20ba00bc2320afacd4b43c099?profile=webtv-h264-aac-matroska
+港秒开时效源 翡翠, http://aliplay.17zuoye.cn/live/0e1e7531cd2125ca5dc91fc77bf7a239.m3u8
+港秒开时效源 翡翠, http://aliplay.17zuoye.cn/live/0e1e7531cd2125ca5dc91fc77bf7a239.m3u8
+台,http://116.153.5.166:8000/streams/5e05b4659858d_720p.m3u8
+江西教育电视台,http://116.153.5.166:8000/streams/5e05b4659858d.m3u8
+江西教育电视台,https://live.jxeduyun.com/streams/5e05b4659858d.m3u8
+江西教育电视台,https://live.jxeduyun.com/streams/5e05b4659858d_720p.m3u8
+江西教育电视台,https://hls-live.jxeduyun.com/streams/5e05b4659858d_720p.m3u8
+翠,https://pullhls3948069e.live.126.net/live/4d20605fe802461da87fe5fdb4b7a8a4/playlist.m3u8
+J2,https://pullhls3948069e.live.126.net/live/4e0e37a4583c133ec0cd8896344932e7/playlist.m3u8
+无线新闻,https://pullhls3948069e.live.126.net/live/a809e0032f3128f7339eefba0e0b1755/playlist.m3u8
+有线新闻,https://pullhls3948069e.live.126.net/live/6577fe7a73b5f7f1ac52564b7af3a787/playlist.m3u8
+VIUtv,https://ws.matchupstream.tuboshu.com/live/bf1b81b7ad3ea82cebb6deeb768
