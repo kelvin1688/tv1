@@ -16,3 +16,13 @@ http://anhht00.ddns.net:4000/udp/225.1.2.96:30120
 http://anhht00.ddns.net:4000/udp/225.1.2.166:30120
 #EXTINF:-1 group-title="VTV" tvg-logo="https://mytv.com.vn/upload/channel/69.png" tvg-id="vtv9", VTV9 HD
 http://anhht00.ddns.net:4000/udp/225.1.1.128:30120
+
+
+#EXTINF:-1 group-title="K+" tvg-logo="https://mytv.com.vn/upload/channel/phpoFg1VQ_5d7659f638821.png"  tvg-id="kplus1hd", K+1 HD (DRM)
+http://anhht00.ddns.net:4000/udp/225.1.1.5:30120
+#EXTINF:-1 group-title="K+" tvg-logo="https://mytv.com.vn/upload/channel/phpTi2fFZ_5d7659dccf2da.png"  tvg-id="kplusnshd", K+NS HD (DRM)
+http://anhht00.ddns.net:4000/udp/225.1.1.6:30120
+#EXTINF:-1 group-title="K+" tvg-logo="https://mytv.com.vn/upload/channel/phpky6LWv_5d765a037252a.png"  tvg-id="kpluspmhd", K+PM HD (DRM)
+http://anhht00.ddns.net:4000/udp/225.1.1.73:30120
+#EXTINF:-1 group-title="K+" tvg-logo="https://mytv.com.vn/upload/channel/phpdWNqGa_5d765a2419123.png"  tvg-id="kpluspchd", K+PC HD (DRM)
+http://anhht00.ddns.net:4000/udp/225.1.1.77:30120
