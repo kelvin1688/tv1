@@ -1,11 +1,10 @@
 
 
 #EXTINF:-1 tvg-ID="TV1.MY" tvg-logo="https://tv1.rtm.gov.my/assets/img/logo3.png" group-title="m",TV1
-http://185.180.221.194:8278/streams/d/TV1/playlist.m3u8
-https://rtm1hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
+http://50.7.161.82:8278/streams/d/tv1_pye/playlist.m3u8
 
 #EXTINF:-1 tvg-ID="TV2.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/102_300.png" group-title="m",TV2
-http://185.180.221.194:8278/streams/d/TV2/playlist.m3u8
+http://50.7.161.82:8278/streams/d/tv2_pye/playlist.m3u8
 https://rtm2hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
 
 #EXTINF:-1 tvg-ID="BRE.MY" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg" group-title="m",Berita RTM
