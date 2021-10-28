@@ -1,0 +1,588 @@
+#EXTINF:-1,*** قنوات عراقية ***
+https://shls-iraq
+
+#EXTINF:-1 tvg-logo="https://wallpapercave.com/wp/wp4211199.jpg" group-title="IRAQ",MBC العراق
+https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index_2.m3u8
+
+#EXTINF:-1 tvg-logo="https://wallpapercave.com/wp/wp4211199.jpg" group-title="IRAQ",الشرقية
+https://5d94523502c2d.streamlock.net/home/mystream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://wallpapercave.com/wp/wp4211199.jpg" group-title="IRAQ",الشرقية الاخبارية
+https://5d94523502c2d.streamlock.net/alsharqiyalive/mystream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://wallpapercave.com/wp/wp4211199.jpg" group-title="IRAQ",السومرية
+http://galaxy.golemflixer.com:8080/play/aNsYyhxRyi-fuDYfn5Dys7Uq64n09HblAHf86M1QXAtmABQLn1iJd4sI8QCG8vy9/ts
+
+#EXTINF:-1 tvg-logo="https://wallpapercave.com/wp/wp4211199.jpg" group-title="IRAQ",الرشيد
+https://media1.livaat.com/AL-RASHEED-HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://wallpapercave.com/wp/wp4211199.jpg" group-title="IRAQ",هنا بغداد
+http://galaxy.golemflixer.com:8080/play/aNsYyhxRyi-fuDYfn5Dys7hjKx8H1_dVgWElktzG_JjbIiAYOopVmLqpqBXg0u0e/ts
+
+#EXTINF:-1 tvg-logo="https://wallpapercave.com/wp/wp4211199.jpg" group-title="IRAQ",ANB
+http://galaxy.golemflixer.com:8080/play/aNsYyhxRyi-fuDYfn5Dys3lQ5hxwCpiAdVnk3lxbiSY6FamB4qx_t5PUqpeyyc8g/ts
+
+#EXTINF:-1 tvg-logo="https://wallpapercave.com/wp/wp4211199.jpg" group-title="IRAQ",أسيا
+http://galaxy.golemflixer.com:8080/play/aNsYyhxRyi-fuDYfn5Dys-ox-a_BKJLKSjXkkiB4MuP81wyOZY8NnLVVW5to8jmV/ts
+
+#EXTINF:-1 tvg-logo="https://wallpapercave.com/wp/wp4211199.jpg" group-title="IRAQ",العراقية
+http://cdn.catiacast.video/abr/8d2ffb0aba244e8d9101a9488a7daa05/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://wallpapercave.com/wp/wp4211199.jpg" group-title="IRAQ",العراقية الاخبارية
+http://galaxy.golemflixer.com:8080/play/aNsYyhxRyi-fuDYfn5DysyI9-Gf-r-uRa58ByUjwzl6Gpb9AE-qLECvSoFaCzOyh/ts
+
+#EXTINF:-1 tvg-logo="https://wallpapercave.com/wp/wp4211199.jpg" group-title="IRAQ",دجلة
+http://91.134.145.75:10001/Dijlah/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://wallpapercave.com/wp/wp4211199.jpg" group-title="IRAQ",الرافدين 
+http://149.202.79.190:8081/arrafidaintv/publish/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://wallpapercave.com/wp/wp4211199.jpg" group-title="IRAQ",الحرة عراق الاخبارية
+https://mbningestworld-i.akamaihd.net/hls/live/644021/iraqworldsafe/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://wallpapercave.com/wp/wp4211199.jpg" group-title="IRAQ",الموصلية
+http://galaxy.golemflixer.com:8080/play/aNsYyhxRyi-fuDYfn5Dys-n3MjANpjJmSPocZRuLWJ4plHdhdAnzIPBOGZFFy4Ut/ts
+
+#EXTINF:-1 tvg-logo="https://wallpapercave.com/wp/wp4211199.jpg" group-title="IRAQ",الفرات
+http://galaxy.golemflixer.com:8080/play/aNsYyhxRyi-fuDYfn5DyszvXXOuBYGWC3KtIKqirHMGYheUTtKqTbjoAbw1uhIqv/ts
+
+===========================================================
+#EXTINF:-1,*** MBC قنوات ***
+https://shls-iraq
+
+#EXTINF:-1 tvg-logo="http://www.elahmad.com/tv/mobiletv/images/mbc1.jpg" group-title="MBC",MBC 1
+https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index_2.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.elahmad.com/tv/mobiletv/images/mbc2.jpg" group-title="MBC",MBC 2
+https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_2.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.elahmad.com/tv/mobiletv/images/mbc3.jpg" group-title="MBC",MBC 3
+https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_2.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.elahmad.com/tv/mobiletv/images/mbc4.jpg" group-title="MBC",MBC 4
+https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index_2.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.elahmad.com/tv/mobiletv/images/mbc5.jpg" group-title="MBC",MBC 5
+https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_2.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.elahmad.com/tv/mobiletv/images/mbc_action.jpg" group-title="MBC",MBC أكشن
+https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index_2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fMjhK06.png" group-title="MBC",MBC بوليوود
+https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index_2.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.elahmad.com/tv/mobiletv/images/mbc_drama.jpg" group-title="MBC",MBC دراما
+https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index_2.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.elahmad.com/tv/mobiletv/images/mbc_drama_plus.jpg" group-title="MBC",MBC دراما  بلس
+https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index_2.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.elahmad.com/tv/mobiletv/images/mbc_masr.jpg" group-title="MBC",MBC مصر 1
+https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index_2.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.elahmad.com/tv/mobiletv/images/mbc_masr2.jpg" group-title="MBC",MBC مصر 2
+https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index_2.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.elahmad.com/tv/mobiletv/images/mbc-max.jpg" group-title="MBC",MBC MASR MAX
+https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index_2.m3u8
+
+============================================================
+
+#EXTINF:-1,*** ROTANA قنوات ***
+https://shls-iraq
+
+#EXTINF:-1 tvg-logo="https://rotana.net/triAssets/themes/TriTheme/images/channels/cinema-egypt.png?v=3" group-title="ROTANA",روتانا سينما المصرية
+https://shls-rotanacinema-egy-prod-dub.shahid.net/out/v1/c39c0ecbcbdb46e890e91106776397a8/index_2.m3u8
+
+#EXTINF:-1 tvg-logo="https://rotana.net/triAssets/themes/TriTheme/images/channels/cinema.png" group-title="ROTANA",روتانا سينما السعودية
+https://shls-rotanacinema-ksa-prod-dub.shahid.net/out/v1/6cee1c57ea7841e697eb15cefc98e0a6/index_2.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Rotana_Comedy_Logo.png" group-title="ROTANA",روتانا كوميدي
+https://hiplayer.hibridcdn.net/t/rotana-comedy.m3u8
+
+#EXTINF:-1 tvg-logo="https://rotana.net/triAssets/themes/TriTheme/images/channels/classic.png" group-title="ROTANA",روتانا كلاسيك 
+https://shls-rotanaclassic-prod-dub.shahid.net/out/v1/4eebed211c8441228321b4f67a46c5a5/index_2.m3u8
+
+#EXTINF:-1 tvg-logo="https://rotana.net/triAssets/themes/TriTheme/images/channels/drama.png" group-title="ROTANA",روتانا دراما 
+https://shls-rotanadrama-prod-dub.shahid.net/out/v1/20c617b40dc743589ecc9d08d9d3345d/index_2.m3u8
+
+#EXTINF:-1 tvg-logo="https://rotana.net/triAssets/themes/TriTheme/images/channels/khalijiat.png" group-title="ROTANA",روتانا خليجية
+https://shls-rotanakhalijia-prod-dub.shahid.net/out/v1/a639fd49db684f1b8c063d398101a888/index_2.m3u8
+
+#EXTINF:-1 tvg-logo="https://rotana.net/triAssets/themes/TriTheme/images/channels/hd.png?v=3" group-title="ROTANA",روتانا بلس منوعات 
+https://shls-rotanaplus-prod-dub.shahid.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index_2.m3u8
+
+===========================================================
+#EXTINF:-1,*** قنوات وثائقية ***
+https://shls-iraq
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/baXbWro.jpg" group-title="وثائقية",ناشيونال جغرافك ابو ظبي
+https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8
+
+#EXTINF:-1 tvg-logo="https://blueantmedia.com/wp-content/uploads/2020/01/brand_love-nature.jpg" group-title="وثائقية",قناة على الطبيعة
+http://xcchui2.mrnova.online/live/60358_.m3u8
+
+#EXTINF:-1 tvg-logo="https://blueantmedia.com/wp-content/uploads/2020/01/brand_love-nature.jpg" group-title="وثائقية",حب الطبيعة 
+http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
+===========================================================
+#EXTINF:-1,*** قنوات الاماراتية ***
+https://shls-iraq
+
+#EXTINF:-1 tvg-logo="http://www.elahmad.com/tv/mobiletv/images/abudhabitv.jpg" group-title="EMARAT",أبو ظبي الاولى
+https://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.elahmad.com/tv/mobiletv/images/abu_dhabi_drama.jpg" group-title="EMARAT",أبو ظبي دراما
+https://admdn5.cdn.mangomolo.com/drama/smil:drama.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dWueFIE.png" group-title="EMARAT",دبي
+https://dmisxthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/chunklist_b1500000.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dubaione.ae/content/dam/dubaione/icons/brand/dubaione-logo.png" group-title="EMARAT",دبي الاولى
+https://dminnvll.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/chunklist_b1500000.m3u8
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3uR0pZF" group-title="EMARAT",SAMA DUBAI 
+https://dmieigthvll.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/chunklist_b1500000.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F5U9qpf.png" group-title="EMARAT",دبي زمان
+http://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.smil/chunklist_b1500000.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5S2ci8p.png" group-title="EMARAT",الامارات
+https://admdn3.cdn.mangomolo.com/emarat/smil:emarat.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8
+
+============================================================
+#EXTINF:-1,*** قنوات سورية ***
+https://shls-iraq
+
+#EXTINF:-1 tvg-logo="http://www.elahmad.com/tv/mobiletv/images/sama_tv.jpg" group-title="SYRIA",قناة سما السورية
+http://stream.sama-tv.net:8080/hls/samatv.m3u8
+
+============================================================
+#EXTINF:-1,*** قنوات افلام ومسلسلات ***
+https://shls-iraq
+
+#EXTINF:-1 tvg-logo="https://www.helloasso.com/assets/img/logos/aflam-7541a523a51e4ed7ae2f79dbc91e42e6.jpg" group-title="AFLAM",الفجر 2 للافلام
+http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.helloasso.com/assets/img/logos/aflam-7541a523a51e4ed7ae2f79dbc91e42e6.jpg" group-title="AFLAM",بيت لحم افلام ومباريات
+http://live.btv2020.com:1935/live/btv/HoSSam_sAt.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.helloasso.com/assets/img/logos/aflam-7541a523a51e4ed7ae2f79dbc91e42e6.jpg" group-title="AFLAM",أجيال افلام ومباريات
+http://htvajyal.mada.ps:8888/ajyal/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.helloasso.com/assets/img/logos/aflam-7541a523a51e4ed7ae2f79dbc91e42e6.jpg" group-title="AFLAM",أورينت للافلام
+http://htvint.mada.ps:8889//orient/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.helloasso.com/assets/img/logos/aflam-7541a523a51e4ed7ae2f79dbc91e42e6.jpg" group-title="AFLAM",قناة حواس افلام ومسلسلات
+https://jmc-live.ercdn.net/hawastvhd/hawastvhd_480p.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.helloasso.com/assets/img/logos/aflam-7541a523a51e4ed7ae2f79dbc91e42e6.jpg" group-title="AFLAM",OMG TV للافلام
+http://media6.smc-host.com:1935/omgchannel.net/omgtv/hossam0599618001.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.helloasso.com/assets/img/logos/aflam-7541a523a51e4ed7ae2f79dbc91e42e6.jpg" group-title="AFLAM",وياك للافلام الهندية
+https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.helloasso.com/assets/img/logos/aflam-7541a523a51e4ed7ae2f79dbc91e42e6.jpg" group-title="AFLAM",وياك افلام اكشن هندية
+https://weyyak-live.akamaized.net/weyyak_action/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.helloasso.com/assets/img/logos/aflam-7541a523a51e4ed7ae2f79dbc91e42e6.jpg" group-title="AFLAM",وياك مسلسلات
+https://weyyak-live.akamaized.net/weyyak_drama/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.helloasso.com/assets/img/logos/aflam-7541a523a51e4ed7ae2f79dbc91e42e6.jpg" group-title="AFLAM",وياك للافلام والمسلسلات
+https://weyyak-live.akamaized.net/weyyak_zee_alwan/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.alroeya.com/uploads/images/2020/10/05/947122.jpg" group-title="AFLAM",BEIN 1 MOVIES
+http://xcchui2.mrnova.online/live/60129_.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.alroeya.com/uploads/images/2020/10/05/947122.jpg" group-title="AFLAM",BEIN 2 MOVIES
+http://xcchui2.mrnova.online/live/60130_.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.alroeya.com/uploads/images/2020/10/05/947122.jpg" group-title="AFLAM",BEIN 3 MOVIES
+http://xcchui2.mrnova.online/live/60131_.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.alroeya.com/uploads/images/2020/10/05/947122.jpg" group-title="AFLAM",BEIN 4 MOVIES
+http://xcchui2.mrnova.online/live/60132_.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.alroeya.com/uploads/images/2020/10/05/947122.jpg" group-title="AFLAM",BEIN DRAMA
+http://xcchui2.mrnova.online/live/60133_.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.alroeya.com/uploads/images/2020/10/05/947122.jpg" group-title="AFLAM",BEIN 1 مسلسلات
+http://xcchui2.mrnova.online/live/60134_.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.alroeya.com/uploads/images/2020/10/05/947122.jpg" group-title="AFLAM",BEIN 2 مسلسلات
+http://xcchui2.mrnova.online/live/60135_.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.alroeya.com/uploads/images/2020/10/05/947122.jpg" group-title="AFLAM",FOX روايات
+http://xcchui2.mrnova.online/live/60138_.m3u8
+
+===========================================================
+
+#EXTINF:-1,*** قنوات كارتون ***
+https://shls-iraq
+
+#EXTINF:-1 tvg-logo="https://learnenglishkids.britishcouncil.org/sites/kids/files/word-of-the-week-thumbnail-cartoon.jpg" group-title="CARTOON",TOM & JERRY
+http://vod.tsvipsmart.eu/turkishcinemamovies/Cocuk/Tom.and.Jerry.Willy.Wonka.and.the.Chocolate.Factory.2017.720p.WEB-DL.TR.mkv
+
+
+#EXTINF:-1 tvg-logo="https://learnenglishkids.britishcouncil.org/sites/kids/files/word-of-the-week-thumbnail-cartoon.jpg" group-title="CARTOON",SPACETOON
+https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index_2.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://learnenglishkids.britishcouncil.org/sites/kids/files/word-of-the-week-thumbnail-cartoon.jpg" group-title="CARTOON",ROTANA KIDS
+https://shls-rotanakids-prod-dub.shahid.net/out/v1/df6e0eb3cdc4410b98209aafc8677cef/index_2.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://learnenglishkids.britishcouncil.org/sites/kids/files/word-of-the-week-thumbnail-cartoon.jpg" group-title="CARTOON",NETWORK ARABIC 
+https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index_2.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://learnenglishkids.britishcouncil.org/sites/kids/files/word-of-the-week-thumbnail-cartoon.jpg" group-title="CARTOON",GULLI ARABIC
+https://shls-gulli-bil-arabi-prod-dub.shahid.net/out/v1/5454d215afba410c90b233f400730958/index_2.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://learnenglishkids.britishcouncil.org/sites/kids/files/word-of-the-week-thumbnail-cartoon.jpg" group-title="CARTOON",BARAEM
+http://62.182.82.104:80/Baraem/index.m3u8?token=test
+
+
+#EXTINF:-1 tvg-logo="https://learnenglishkids.britishcouncil.org/sites/kids/files/word-of-the-week-thumbnail-cartoon.jpg" group-title="CARTOON",MAJID TV 
+http://admdn4.cdn.mangomolo.com/majid/smil:majid.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+
+===========================================================
+
+#EXTINF:-1,*** قنوات الاغاني ***
+https://shls-iraq
+
+#EXTINF:-1 tvg-logo="https://st.depositphotos.com/2665985/3096/v/600/depositphotos_30961713-stock-illustration-music-illustration.jpg" group-title="MUSIC",دجلة طرب
+http://91.134.145.75:10001/tarab/tracks-v1a1/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://st.depositphotos.com/2665985/3096/v/600/depositphotos_30961713-stock-illustration-music-illustration.jpg" group-title="MUSIC",أرابيكا ميوزك
+http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.alroeya.com/uploads/images/2020/10/05/947122.jpg" group-title="MUSIC",قناة موسيقى الان
+http://xcchui2.mrnova.online/live/60229_.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://st.depositphotos.com/2665985/3096/v/600/depositphotos_30961713-stock-illustration-music-illustration.jpg" group-title="MUSIC",وناسه ميوزك
+https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://st.depositphotos.com/2665985/3096/v/600/depositphotos_30961713-stock-illustration-music-illustration.jpg" group-title="MUSIC",مرح
+https://marahtv-live.apps2you.org/HLS/videos/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://st.depositphotos.com/2665985/3096/v/600/depositphotos_30961713-stock-illustration-music-illustration.jpg" group-title="MUSIC",نجوم اف ام
+https://stream-speed.extremesolution.mobi/nogoumfm/nogoumfmlive/chunklist_w1693656216.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://st.depositphotos.com/2665985/3096/v/600/depositphotos_30961713-stock-illustration-music-illustration.jpg" group-title="MUSIC",اغاني
+https://au7live.tooliserver.com/live/461_0.m3u8?session=azrotv
+
+=============================
+#EXTINF:-1,*** قنوات رياضية عربية ***
+https://shls-iraq
+
+#EXTINF:-1 tvg-logo="https://www.alroeya.com/uploads/images/2020/10/05/947122.jpg" group-title="ARABIC SPORT",BEIN 1 EXTRA 
+http://xcchui2.mrnova.online/live/60242_.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.alroeya.com/uploads/images/2020/10/05/947122.jpg" group-title="ARABIC SPORT",BEIN 2 EXTRA 
+http://xcchui2.mrnova.online/live/60244_.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.alroeya.com/uploads/images/2020/10/05/947122.jpg" group-title="ARABIC SPORT",DOHUK SPORT KURD
+http://88.198.32.36:1935/live/Duhok-Sports-HD/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.alroeya.com/uploads/images/2020/10/05/947122.jpg" group-title="ARABIC SPORT",BIABAN SPORT KURD
+http://185.234.111.76/bar7662/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.alroeya.com/uploads/images/2020/10/05/947122.jpg" group-title="ARABIC SPORT",RING SPORT KURD
+http://185.234.111.76/bar7667/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.alroeya.com/uploads/images/2020/10/05/947122.jpg" group-title="ARABIC SPORT",ASO SPORT KURD
+http://185.234.111.76/bar7671/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.alroeya.com/uploads/images/2020/10/05/947122.jpg" group-title="ARABIC SPORT",MMN SPORT KURD
+http://185.234.111.76/bar7642/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.alroeya.com/uploads/images/2020/10/05/947122.jpg" group-title="ARABIC SPORT",NRT SPORT KURD
+http://185.234.111.76/bar7638/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.alroeya.com/uploads/images/2020/10/05/947122.jpg" group-title="ARABIC SPORT",GK SPORT KURD
+http://185.234.111.76/bar7653/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.alroeya.com/uploads/images/2020/10/05/947122.jpg" group-title="ARABIC SPORT",WAYKINK SPORT YAHSAT
+http://51.210.199.10/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.alroeya.com/uploads/images/2020/10/05/947122.jpg" group-title="ARABIC SPORT",KURDISTAN SPORT
+http://baskhd.ddns.net:40/live/kurdistansporthd/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.alroeya.com/uploads/images/2020/10/05/947122.jpg" group-title="ARABIC SPORT",LIKE SPORT KURD
+http://baskhd.ddns.net:40/live/Like_Sport/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.alroeya.com/uploads/images/2020/10/05/947122.jpg" group-title="ARABIC SPORT",SPORTS HD KURD
+http://62.201.232.103:40/live/sportshd/chunklist_w1861438801.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.alroeya.com/uploads/images/2020/10/05/947122.jpg" group-title="ARABIC SPORT"VARZISH SPORT IRAN
+https://ss.90minlive.online/live/varzesh-irib3343/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.alroeya.com/uploads/images/2020/10/05/947122.jpg" group-title="ARABIC SPORT",SPORTS 1 PLS
+http://xtream-ui04.feel-tv.com:25461/jhgjhmnb/jykcZo6yjz/6
+
+#EXTINF:-1 tvg-logo="https://www.alroeya.com/uploads/images/2020/10/05/947122.jpg" group-title="ARABIC SPORT",SPORTS 2 PLS
+http://xtream-ui04.feel-tv.com:25461/jhgjhmnb/jykcZo6yjz/5
+
+#EXTINF:-1 tvg-logo="https://www.alroeya.com/uploads/images/2020/10/05/947122.jpg" group-title="ARABIC SPORT",SPORTS 3 PLS
+http://xtream-ui04.feel-tv.com:25461/jhgjhmnb/jykcZo6yjz/3
+
+#EXTINF:-1 tvg-logo="https://www.alroeya.com/uploads/images/2020/10/05/947122.jpg" group-title="ARABIC SPORT",SPORTS 4 PLS
+http://xtream-ui04.feel-tv.com:25461/jhgjhmnb/jykcZo6yjz/1
+
+#EXTINF:-1 tvg-logo="https://www.alroeya.com/uploads/images/2020/10/05/947122.jpg" group-title="ARABIC SPORT",SPORTS 5 PLS
+http://xtream-ui04.feel-tv.com:25461/jhgjhmnb/jykcZo6yjz/2
+
+#EXTINF:-1 tvg-logo="https://www.alroeya.com/uploads/images/2020/10/05/947122.jpg" group-title="ARABIC SPORT",SPORTS 6 PLS
+http://xtream-ui04.feel-tv.com:25461/jhgjhmnb/jykcZo6yjz/7
+
+#EXTINF:-1 tvg-logo="https://www.alroeya.com/uploads/images/2020/10/05/947122.jpg" group-title="ARABIC SPORT",ON TIME SPORT 
+http://galaxy.golemflixer.com:8080/play/aNsYyhxRyi-fuDYfn5Dys1pTLJ1EoAzgb1Gj8jUyPnhrWcNNz6-05A4ktpvBNPi-/ts
+
+#EXTINF:-1 tvg-logo="https://www.alroeya.com/uploads/images/2020/10/05/947122.jpg" group-title="ARABIC SPORT",IRAQIA SPORT
+http://galaxy.golemflixer.com:8080/play/aNsYyhxRyi-fuDYfn5Dys09Iz57SmOyQ9MbrGHXo1KHXrt5WOsmL5vTZu68C5mOb/ts
+
+#EXTINF:-1 tvg-logo="https://www.alroeya.com/uploads/images/2020/10/05/947122.jpg" group-title="ARABIC SPORT",AD SPORTS 1
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.alroeya.com/uploads/images/2020/10/05/947122.jpg" group-title="ARABIC SPORT",AD SPORTS 2
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.alroeya.com/uploads/images/2020/10/05/947122.jpg" group-title="ARABIC SPORT",AD SPORTS 3
+https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.alroeya.com/uploads/images/2020/10/05/947122.jpg" group-title="ARABIC SPORT",AD SPORTS 4
+https://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.alroeya.com/uploads/images/2020/10/05/947122.jpg" group-title="ARABIC SPORT",SSC 1 KSA
+http://xcchui2.mrnova.online/live/60817_.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.alroeya.com/uploads/images/2020/10/05/947122.jpg" group-title="ARABIC SPORT",SSC 5 KSA
+http://xcchui2.mrnova.online/live/60821_.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.alroeya.com/uploads/images/2020/10/05/947122.jpg" group-title="ARABIC SPORT",SSC 6 KSA
+http://xcchui2.mrnova.online/live/60822_.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.alroeya.com/uploads/images/2020/10/05/947122.jpg" group-title="ARABIC SPORT",SSC 7 KSA
+http://xcchui2.mrnova.online/live/60823_.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.alroeya.com/uploads/images/2020/10/05/947122.jpg" group-title="ARABIC SPORT",On time sport hd
+http://xcchui2.mrnova.online/live/60101_.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.alroeya.com/uploads/images/2020/10/05/947122.jpg" group-title="ARABIC SPORT",On time sport 2 hd
+http://xcchui2.mrnova.online/live/60104_.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.alroeya.com/uploads/images/2020/10/05/947122.jpg" group-title="ARABIC SPORT",On time sport 3 hd
+http://xcchui2.mrnova.online/live/60107_.m3u8
+
+============================
+============================
+
+#EXTINF:-1 tvg-logo="https://www.alroeya.com/uploads/images/2020/10/05/947122.jpg" group-title="ARABIC SPORT",ALFAJER 1 PLS
+http://xcchui2.mrnova.online/live/60289_.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.alroeya.com/uploads/images/2020/10/05/947122.jpg" group-title="ARABIC SPORT",ALFAJER 3 PLS
+http://xcchui2.mrnova.online/live/60291_.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.alroeya.com/uploads/images/2020/10/05/947122.jpg" group-title="ARABIC SPORT",ALFAJER 4 PLS
+http://xcchui2.mrnova.online/live/60292_.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.alroeya.com/uploads/images/2020/10/05/947122.jpg" group-title="ARABIC SPORT",ALFAJER 5 PLS
+http://xcchui2.mrnova.online/live/60293_.m3u8
+=============================
+
+#EXTINF:-1,*** قنوات رياضية اجنبية ***
+https://shls-iraq
+ 
+#EXTINF:-1 tvg-logo="https://www.alroeya.com/uploads/images/2020/10/05/947122.jpg" group-title="SPORT",BEIN 1 FR
+http://xcchui2.mrnova.online/live/60685_.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.alroeya.com/uploads/images/2020/10/05/947122.jpg" group-title="SPORT",BEIN 2 FR
+http://xcchui2.mrnova.online/live/60686_.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.alroeya.com/uploads/images/2020/10/05/947122.jpg" group-title="SPORT",BEIN 3 FR
+http://xcchui2.mrnova.online/live/60687_.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.alroeya.com/uploads/images/2020/10/05/947122.jpg" group-title="SPORT",RMC 1 FR
+http://xcchui2.mrnova.online/live/60688_.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.alroeya.com/uploads/images/2020/10/05/947122.jpg" group-title="SPORT",RMC 2 FR FHD
+http://xcchui2.mrnova.online/live/60689_.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.alroeya.com/uploads/images/2020/10/05/947122.jpg" group-title="SPORT",RMC 2 FR HD
+http://xcchui2.mrnova.online/live/60691_.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.alroeya.com/uploads/images/2020/10/05/947122.jpg" group-title="SPORT",MATCH SPORT RUSSIA
+https://185-107-80-245.livesports24.online/ooomatch.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.alroeya.com/uploads/images/2020/10/05/947122.jpg" group-title="SPORT",MATCH 1 SPORT RUSSIA
+https://185-107-80-245.livesports24.online/ntvmatchfoot1.m3u8
+
+==============================
+
+#EXTINF:-1 tvg-logo="https://www.alroeya.com/uploads/images/2020/10/05/947122.jpg" group-title="SPORT",MATCH 2 SPORT RUSSIA
+https://185-107-80-245.livesports24.online/mfootball2rus.m3u8
+
+==============================
+
+#EXTINF:-1 tvg-logo="https://www.alroeya.com/uploads/images/2020/10/05/947122.jpg" group-title="SPORT",MATCH 3 SPORT RUSSIA
+https://185-107-80-245.livesports24.online/rumatchf3.m3u8
+
+==============================
+
+#EXTINF:-1 tvg-logo="https://www.alroeya.com/uploads/images/2020/10/05/947122.jpg" group-title="SPORT",MEGOGO SPORT RUSSIA
+https://185-106-121-77.livesports24.online/megogofootball1.m3u8
+
+=============================
+#EXTINF:-1 tvg-logo="https://www.alroeya.com/uploads/images/2020/10/05/947122.jpg" group-title="SPORT",FOOTBALL 1++ UKRAINE
+https://185-106-121-77.livesports24.online/sport1ua.m3u8
+
+=============================
+
+#EXTINF:-1 tvg-logo="https://www.alroeya.com/uploads/images/2020/10/05/947122.jpg" group-title="SPORT",FOOTBALL 1 UKRAINE
+https://95-213-172-220.livesports24.online/uafootballua1.m3u8
+
+==============================
+
+#EXTINF:-1 tvg-logo="https://www.alroeya.com/uploads/images/2020/10/05/947122.jpg" group-title="SPORT",FOOTBALL 2 UKRAINE
+https://95-213-172-220.livesports24.online/fooootball2.m3u8
+
+==============================
+
+#EXTINF:-1 tvg-logo="https://www.alroeya.com/uploads/images/2020/10/05/947122.jpg" group-title="SPORT",SETANTA SPORT UKRAINE
+https://95-213-172-220.livesports24.online/setantaukraine.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.alroeya.com/uploads/images/2020/10/05/947122.jpg" group-title="SPORT",SETANTA+ SPORT UKRAINE
+https://95-213-224-183.livesports24.online/setantaplusukr.m3u8
+
+==============================
+
+#EXTINF:-1 tvg-logo="https://www.alroeya.com/uploads/images/2020/10/05/947122.jpg" group-title="SPORT",SETANTA SPORT 1 RUSSIA
+https://185-107-80-245.livesports24.online/rusetantaeurasia.m3u8
+
+==============================
+
+#EXTINF:-1 tvg-logo="https://www.alroeya.com/uploads/images/2020/10/05/947122.jpg" group-title="SPORT",SETANTA SPORT 2 RUSSIA
+https://185-107-80-245.livesports24.online/setantaplusru.m3u8
+
+==============================
+
+#EXTINF:-1 tvg-logo="https://www.alroeya.com/uploads/images/2020/10/05/947122.jpg" group-title="SPORT",BELARUSS 5
+https://185-106-121-77.livesports24.online/belarusss5.m3u8
+
+==============================
+
+#EXTINF:-1 tvg-logo="https://www.alroeya.com/uploads/images/2020/10/05/947122.jpg" group-title="SPORT",EURO 1 SPORT RUSSIA
+https://185-107-80-245.livesports24.online/eurosport1ru.m3u8
+
+==============================
+
+#EXTINF:-1 tvg-logo="https://www.alroeya.com/uploads/images/2020/10/05/947122.jpg" group-title="SPORT",EURO 2 SPORT RUSSIA
+https://95-213-224-181.livesports24.online/ruseurosport2.m3u8
+
+==============================
+
+#EXTINF:-1 tvg-logo="https://www.alroeya.com/uploads/images/2020/10/05/947122.jpg" group-title="SPORT",ELEVEN SPORT 1 POLAND 
+http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
+
+==============================
+
+#EXTINF:-1 tvg-logo="https://www.alroeya.com/uploads/images/2020/10/05/947122.jpg" group-title="SPORT",ELEVEN SPORT 2 POLAND
+http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/index.m3u8
+
+==============================
+
+#EXTINF:-1 tvg-logo="https://www.alroeya.com/uploads/images/2020/10/05/947122.jpg" group-title="SPORT",TVP SPORT POLAND
+http://207.110.52.61:8080/s/hls/5/872/tvp_sport_254/1/1/tracks-v1a1/mono.m3u8
+
+==============================
+
+#EXTINF:-1 tvg-logo="https://www.alroeya.com/uploads/images/2020/10/05/947122.jpg" group-title="SPORT",CANAL+ SPORT POLAND
+http://207.110.52.61:8080/s/hls/5/293/canal_plus_sport_polska_250/1/1/tracks-v1a1/mono.m3u8
+
+==============================
+
+#EXTINF:-1 tvg-logo="https://www.alroeya.com/uploads/images/2020/10/05/947122.jpg" group-title="SPORT",RTSH SPORT CROATIA
+http://93.157.62.180/RTSHSport/index.m3u8
+
+==============================
+
+#EXTINF:-1 tvg-logo="https://www.alroeya.com/uploads/images/2020/10/05/947122.jpg" group-title="SPORT",BEIN 1 TR
+http://xcchui2.mrnova.online/live/60435_.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.alroeya.com/uploads/images/2020/10/05/947122.jpg" group-title="SPORT",BEIN 2 TR
+http://xcchui2.mrnova.online/live/60436_.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.alroeya.com/uploads/images/2020/10/05/947122.jpg" group-title="SPORT",BEIN 3 TR
+http://xcchui2.mrnova.online/live/60437_.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.alroeya.com/uploads/images/2020/10/05/947122.jpg" group-title="SPORT",TRT SPOR TR
+http://xcchui2.mrnova.online/live/60439_.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.alroeya.com/uploads/images/2020/10/05/947122.jpg" group-title="SPORT",SPORT 1 ISRAEL 
+http://xcchui2.mrnova.online/live/60313_.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.alroeya.com/uploads/images/2020/10/05/947122.jpg" group-title="SPORT",SPORT 3 ISRAEL
+http://xcchui2.mrnova.online/live/60304_.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.alroeya.com/uploads/images/2020/10/05/947122.jpg" group-title="SPORT",SPORT 4 ISRAEL 
+http://xcchui2.mrnova.online/live/60305_.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.alroeya.com/uploads/images/2020/10/05/947122.jpg" group-title="SPORT",SPORT 5 ISRAEL 
+http://xcchui2.mrnova.online/live/60306_.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.alroeya.com/uploads/images/2020/10/05/947122.jpg" group-title="SPORT",SPORT 5 ISRAEL 
+http://xcchui2.mrnova.online/live/60310_.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.alroeya.com/uploads/images/2020/10/05/947122.jpg" group-title="SPORT",SPORT STARS ISRAEL 
+http://xcchui2.mrnova.online/live/60311_.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.alroeya.com/uploads/images/2020/10/05/947122.jpg" group-title="SPORT",SPORT 5+ ISRAEL 
+http://xcchui2.mrnova.online/live/60307_.m3u8
+
+============================
+============================
+
+#EXTINF:-1 tvg-logo="https://www.alroeya.com/uploads/images/2020/10/05/947122.jpg" group-title="SPORT",EURO SPORT 1
+http://xcchui2.mrnova.online/live/60322_.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.alroeya.com/uploads/images/2020/10/05/947122.jpg" group-title="SPORT",EURO SPORT 2
+://xcchui2.mrnova.online/live/60805_.m3u8
+
+============================
+============================
+
+#EXTINF:-1 tvg-logo="https://www.alroeya.com/uploads/images/2020/10/05/947122.jpg" group-title="SPORT",ESPN
+http://xcchui2.mrnova.online/live/60634_.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.alroeya.com/uploads/images/2020/10/05/947122.jpg" group-title="SPORT",ESPN 4
+http://xcchui2.mrnova.online/live/60633_.m3u8
+
+============================
+============================
+
+#EXTINF:-1 tvg-logo="https://www.alroeya.com/uploads/images/2020/10/05/947122.jpg" group-title="SPORT",TSN 1
+http://xcchui2.mrnova.online/live/60540_.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.alroeya.com/uploads/images/2020/10/05/947122.jpg" group-title="SPORT",TSN 2
+http://xcchui2.mrnova.online/live/60541_.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.alroeya.com/uploads/images/2020/10/05/947122.jpg" group-title="SPORT",TSN 3
+http://xcchui2.mrnova.online/live/60542_.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.alroeya.com/uploads/images/2020/10/05/947122.jpg" group-title="SPORT",TSN 4
+http://xcchui2.mrnova.online/live/60543_.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.alroeya.com/uploads/images/2020/10/05/947122.jpg" group-title="SPORT",TSN 5
+http://xcchui2.mrnova.online/live/60544_.m3u8
