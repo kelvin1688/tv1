@@ -1,0 +1,1498 @@
+#EXTM3U
+#EXTINF:-1,AccuWeather Now (1080p)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8
+#EXTINF:-1,Pamir TV (1080p) [Not 24/7]
+http://live.stream.cdn.pamirtv.com/ptv/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
+#EXTINF:-1,AlbUK TV (1080p) [Not 24/7] [Albanian]
+http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8
+#EXTINF:-1,ATD (1080p)
+http://46.99.146.236/0.m3u8
+#EXTINF:-1,13Max Televisión (1080p) [Spanish] [general]
+http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
+#EXTINF:-1,Canal 2 Misiones (1080p) [Spanish]
+https://nd106.republicaservers.com:4433/hls/canal2misioness/index.m3u8
+#EXTINF:-1,Canal 10 Córdoba (1080p) [Spanish]
+https://stream.arcast.live/canal10/ngrp:canal10_all/playlist.m3u8
+#EXTINF:-1,CANAL TDC (1080p) [Not 24/7] [Spanish]
+https://5e7cdf2370883.streamlock.net/tdconline/tdconline/playlist.m3u8
+#EXTINF:-1,Canal 3 La Pampa (1080p) [Spanish]
+https://stream.arcast.com.ar/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8
+#EXTINF:-1,El Trece (1080p) [Spanish]
+https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
+#EXTINF:-1,Encuentro (1080p) [Spanish] [culture]
+https://538d0bde28ccf.streamlock.net/live-cont.ar/encuentro/.m3u8
+#EXTINF:-1,IP Noticias (1080p) [Spanish] [news]
+https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8
+#EXTINF:-1,Somos La Pampa (1080p) [Spanish]
+https://stream.arcast.com.ar/somosnoticias/somosnoticias/playlist.m3u8
+#EXTINF:-1,Telenord Corrientes (1080p) [Not 24/7] [Spanish]
+http://www.coninfo.net:1935/previsoratv/live/playlist.m3u8
+#EXTINF:-1,Առաջին ալիք (1080p)
+https://amtv1.livestreamingcdn.com/am2abr/index.m3u8
+#EXTINF:-1,TVSN (1080p) [English] [shop]
+https://tvsnhlslivetest.akamaized.net/hls/live/2034711/TVSN-MSL4/master.m3u8
+#EXTINF:-1,InTrouble (1080p) [English]
+https://introuble-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1,Rialto (1080p) [English]
+https://rialto-rialto-samsungaustralia.amagi.tv/playlist.m3u8
+#EXTINF:-1,Smithsonian Channel Asia (1080p) [English] [science]
+https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1,Tastemade Australia (1080p) [English] [cooking]
+https://tmint-aus-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1,Trace Sport Stars (Australia) (1080p) [English French Russian] [sports]
+https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1,Trace Urban (Australia) (1080p) [French English Portuguese] [music]
+https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1,Zoo Moo (Australia) (1080p)
+https://zoomoo-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1,Kronehit (1080p) [German] [music]
+https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
+#EXTINF:-1,oe24 TV (1080p) [German]
+https://varoe24live.sf.apa.at/oe24-live1/oe24.smil/playlist.m3u8
+#EXTINF:-1,Red Bull TV (1080p) [English German] [sports]
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1,RTV (1080p) [German]
+http://iptv.rtv-ooe.at/stream.m3u8
+#EXTINF:-1,DBC News (1080p) [Bengali] [news]
+https://live.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/dbcnews.stream/playlist.m3u8
+#EXTINF:-1,Independent TV (1080p) [Not 24/7] [Bengali] [news]
+https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/independent-8-org.stream/playlist.m3u8
+#EXTINF:-1,Millennium TV 24 (1080p) [Not 24/7] [English]
+https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mnews24.stream/playlist.m3u8
+#EXTINF:-1,Millennium TV USA (1080p) [Not 24/7] [English] [general]
+https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/millenniumtv-odr-up2.stream/playlist.m3u8
+#EXTINF:-1,RTV (1080p) [Bengali] [general]
+https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtv-sg.stream/playlist.m3u8
+#EXTINF:-1,Somoy News TV (1080p) [Not 24/7] [Bengali] [news]
+https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/somoyt000011226615544544.stream/playlist.m3u8
+#EXTINF:-1,Первый Музыкальный Канал HD (1080p)
+http://rtmp.one.by:1300
+#EXTINF:-1,Первый Музыкальный Канал Россия HD (1080p)
+http://rtmp.one.by:2300
+#EXTINF:-1,ATV (1080p) [Dutch]
+https://live.zendzend.com/streams/29375_107244/playlist.m3u8
+#EXTINF:-1,Bel RTL (1080p) [French]
+https://bel-live-hls.akamaized.net/hls/live/2038650/BEL-Live-HLS/master.m3u8
+#EXTINF:-1,MaTele (1080p) [Not 24/7] [French]
+https://live.matele.be/hls/live.m3u8
+#EXTINF:-1,Radio Contact (1080p) [French] [music]
+https://contact-live-hls.akamaized.net/hls/live/2038650/CONTACT-Live-HLS/master.m3u8
+#EXTINF:-1,ROB TV (1080p) [Dutch]
+https://live.zendzend.com/streams/29375_395477/playlist.m3u8
+#EXTINF:-1,RTL-TVI (1080p) [Not 24/7] [French]
+https://tvi-live-hls.akamaized.net/hls/live/2038650/TVI-Live-HLS/master.m3u8
+#EXTINF:-1,Stêrk TV (1080p) [Kurdish] [news]
+https://muzkurd.com/sterktv/sterk/playlist.m3u8
+#EXTINF:-1,TV Limburg (1080p) [Dutch]
+https://live.zendzend.com/streams/29375_395474/playlist.m3u8
+#EXTINF:-1,TV Oost (1080p) [Dutch]
+https://live.zendzend.com/streams/29375_399410/playlist.m3u8
+#EXTINF:-1,Ceacom (1080p) [Spanish]
+https://cloud2.streaminglivehd.com:1936/ceacom/ceacom/playlist.m3u8
+#EXTINF:-1,TV Slon Extra (1080p) [Not 24/7] [Bosnian]
+http://31.47.0.130:8082
+#EXTINF:-1,Canal do Criador (1080p) [Portuguese] [outdoor]
+https://607d2a1a47b1f.streamlock.net/crur/smil:canaldocriador.smil/playlist.m3u8
+#EXTINF:-1,Canal FDR (1080p) [Portuguese] [general;education]
+https://stmv1.transmissaodigital.com/ronald6259/ronald6259/playlist.m3u8
+#EXTINF:-1,Canal Rural (1080p) [Portuguese] [outdoor]
+https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8
+#EXTINF:-1,Canal Sete (1080p) [Portuguese] [general]
+http://189.51.193.70:1935/canalsete/xpl-c7/playlist.m3u8
+#EXTINF:-1,CBTV Internacional (1080p) [Portuguese] [general]
+https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/index.m3u8
+#EXTINF:-1,Elemental Channel (1080p) [Portuguese] [entertainment]
+https://5d82644094cc0.streamlock.net/8116/8116/playlist.m3u8
+#EXTINF:-1,Fonte TV (1080p) [Not 24/7] [Portuguese] [religious]
+http://flash.softhost.com.br:1935/fonte/fontetv/live.m3u8
+#EXTINF:-1,J3NEWS TV (1080p) [Not 24/7] [Portuguese] [news]
+https://cdn.jmvstream.com/w/LVW-8529/LVW8529_S8HhwGeAQU/chunklist.m3u8
+#EXTINF:-1,Jovem Pan News (JP News) (1080p) [Not 24/7] [Portuguese] [news]
+https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
+#EXTINF:-1,Nova Era TV (1080p) [Not 24/7] [Portuguese]
+http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8
+#EXTINF:-1,Primer TV (1080p) [Portuguese] [general]
+http://200.194.238.229:8383/live/primer/playlist.m3u8
+#EXTINF:-1,Rede Premium TV (1080p) [Portuguese] [entertainment]
+https://5c483b9d1019c.streamlock.net/8066/8066/playlist.m3u8
+#EXTINF:-1,Rede Século 21 (1080p) [Not 24/7] [Portuguese] [religious]
+https://cdn.jmvstream.com/w/LVW-10024/ngrp:LVW10024_H3QLdAY6kx_all/playlist.m3u8
+#EXTINF:-1,SBT Interior (720p) [Portuguese] [general]
+https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
+#EXTINF:-1,SESC TV (1080p) [Portuguese]
+https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/8a00fe7cc36ac263b2c3e9324497d5ff/video/621b6f2c-2dc6-41f1-9302-f9583c96ee31_index.m3u8
+#EXTINF:-1,TV A7 Plus (1080p) [Portuguese] [entertainment;music;news]
+https://srv3.zcast.com.br/wellington7720/wellington7720/playlist.m3u8
+#EXTINF:-1,TV Aberta (1080p) [Not 24/7] [Portuguese] [general]
+https://cdn-canalpaulo.ciclano.io:1443/canalpaulo/canalpaulo/playlist.m3u8
+#EXTINF:-1,TV Aparecida (1080p) [Not 24/7] [Portuguese] [religious]
+https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
+#EXTINF:-1,TV Candidés (1080p) [Portuguese] [general]
+https://cdn.jmvstream.com/w/LVW-8067/ngrp:LVW8067_ZffQjxn7UC_all/chunklist.m3u8
+#EXTINF:-1,TV Candidés (1080p) [Portuguese] [general]
+https://cdn.jmvstream.com/w/LVW-8067/ngrp:LVW8067_ZffQjxn7UC_all/playlist.m3u8
+#EXTINF:-1,TV Cidade de Petrópolis (1080p) [Not 24/7] [Portuguese]
+https://video01.kshost.com.br:4443/inside2133/inside2133/playlist.m3u8
+#EXTINF:-1,TV Difusora Leste (1080p) [Portuguese] [general]
+https://stream.amsolution.net.br:8443/live/60d0a8ea6b884/index.m3u8
+#EXTINF:-1,TVE RS (1080p) [Not 24/7] [Portuguese]
+http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8
+#EXTINF:-1,TVE RS (1080p) [Portuguese]
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
+#EXTINF:-1,TV Gideoes (1080p) [Not 24/7] [Portuguese] [religious]
+https://streaming01.zas.media/gideoes/programacao/playlist.m3u8
+#EXTINF:-1,TV Mais Brasil (1080p) [Portuguese] [general]
+http://sevensp.homelinux.com/live/index.m3u8
+#EXTINF:-1,Kuriakos Cine (1080p)
+https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8
+#EXTINF:-1,Kuriakos Kids (1080p)
+https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
+#EXTINF:-1,Tastemade Brasil (1080p) [Portuguese] [cooking]
+https://tastemade-pt16intl-samsungbrazil.amagi.tv/playlist.m3u8
+#EXTINF:-1,Code Fashion TV (1080p) [Bulgarian] [lifestyle]
+https://cdn3.invivo.bg/Codefashion_5500/index.m3u8
+#EXTINF:-1,SEATV (1080p) [Khmer]
+https://seatv.netlinkbroadcaster.com/hls/test.m3u8
+#EXTINF:-1,Az Star TV (1080p) [Azerbaijani] [general]
+http://live.azstartv.com/azstar/smil:azstar.smil/playlist.m3u8
+#EXTINF:-1,CanBangla TV (1080p) [Not 24/7] [Bengali] [general]
+https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/canbanglatv.stream/playlist.m3u8
+#EXTINF:-1,EET TV (1080p) [Not 24/7] [English]
+https://eu.streamjo.com/eetlive/eettv.m3u8
+#EXTINF:-1,Fight Network (1080p) [English] [sports]
+https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
+#EXTINF:-1,NRB TV (1080p) [Not 24/7] [Bengali] [general]
+https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/nrb-eu.stream/playlist.m3u8
+#EXTINF:-1,TAG TV (1080p) [Not 24/7] [Hindi]
+http://cdn11.live247stream.com/tag/tv/playlist.m3u8
+#EXTINF:-1,Tamil Vision TV (1080p) [Tamil]
+http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8
+#EXTINF:-1,Uvagut TV (1080p) [English Inuktitut]
+http://dee7mwgg9dzvl.cloudfront.net/hls/uvagut/playlist.m3u8
+#EXTINF:-1,Stingray Classic Rock (1080p) [English] [music]
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/101/master.m3u8
+#EXTINF:-1,Stingray Flashback 70s (1080p) [English] [music]
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/115/master.m3u8
+#EXTINF:-1,Stingray Greatest Hits (1080p) [English] [music]
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/155/master.m3u8
+#EXTINF:-1,Stingray Hit List (1080p) [English] [music]
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/107/master.m3u8
+#EXTINF:-1,Stingray Hot Country (1080p) [English] [music]
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/108/master.m3u8
+#EXTINF:-1,Stingray Pop Adult (1080p) [English] [music]
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/104/master.m3u8
+#EXTINF:-1,Stingray Rock Alternative (1080p) [English] [music]
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/102/master.m3u8
+#EXTINF:-1,Stingray Soul Storm (1080p) [English] [music]
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/134/master.m3u8
+#EXTINF:-1,Stingray Today\'s Latin Pop (1080p) [English] [music]
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/190/master.m3u8
+#EXTINF:-1,Stingray Urban Beat (1080p) [English] [music]
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/133/master.m3u8
+#EXTINF:-1,Stingray Everything 80s (1080p)
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/128/master.m3u8
+#EXTINF:-1,TCSM (1080p) [Portuguese]
+https://stream.internet.one/RadioCaboVerde/video.m3u8
+#EXTINF:-1,ADN Radio (1080p) [Spanish] [news]
+https://unlimited1-us.dps.live/adntv/adntv.smil/playlist.m3u8
+#EXTINF:-1,ADN Radio (1080p) [Spanish] [news]
+https://unlimited6-cl.dps.live/adntv/adntv.smil/playlist.m3u8
+#EXTINF:-1,Antofagasta TV (ATV) (1080p) [Spanish] [general]
+https://unlimited6-cl.dps.live/atv/atv.smil/playlist.m3u8
+#EXTINF:-1,TV Quellón (1080p) [Not 24/7] [Spanish]
+https://pantera1-100gb-cl-movistar.dps.live/tvquellon/tvquellon.smil/playlist.m3u8
+#EXTINF:-1,Canal 9 Bío Bío Televisión (1080p) [Not 24/7] [Spanish]
+https://unlimited6-cl.dps.live/c9/c9.smil/playlist.m3u8
+#EXTINF:-1,Canal Local (1080p) [Spanish]
+http://live.mundogo.cl/mundo/Canallocalquillota/index.m3u8
+#EXTINF:-1,El Tipógrafo (1080p) [Spanish]
+http://live.mundogo.cl/mundo/Tipografo/index.m3u8
+#EXTINF:-1,Gracia TV (1080p) [Not 24/7] [Spanish] [religious]
+http://v3.tustreaming.cl/graciatv/index.m3u8
+#EXTINF:-1,Interradio TV (1080p) [Spanish] [music]
+https://cdn.jmvstream.com/w/LVW-13214/LVW13214_wLcadZJaYb/playlist.m3u8
+#EXTINF:-1,Molina TV (1080p) [Spanish]
+http://live.mundogo.cl/mundo/Molinatv/index.m3u8
+#EXTINF:-1,Onda Radio TV (1080p) [Spanish] [music]
+https://tv.streaming-chile.com:1936/ondaradio/ondaradio/playlist.m3u8
+#EXTINF:-1,Pichilemu TV (1080p) [Spanish]
+https://5ff3d9babae13.streamlock.net/8028/8028/playlist.m3u8
+#EXTINF:-1,Pucón TV (1080p) [Not 24/7] [Spanish]
+https://pantera1-100gb-cl-movistar.dps.live/pucontv/pucontv.smil/playlist.m3u8
+#EXTINF:-1,Radio Hoy TV (1080p) [Spanish]
+https://panel.dattalive.com/8146/8146/playlist.m3u8
+#EXTINF:-1,Radio Q (1080p) [Spanish] [music]
+https://panel.miplay.cl:8081/radioq/index.m3u8
+#EXTINF:-1,Tendencias Prime (T31 | Ñuñoa) (1080p) [Not 24/7] [Spanish]
+https://v2.tustreaming.cl/tendenciastv/index.m3u8
+#EXTINF:-1,TV Quinta Region (1080p) [Spanish]
+https://mediacpstreamchile.com:1936/8002/8002/playlist.m3u8
+#EXTINF:-1,TVR (1080p) [Not 24/7] [Spanish]
+https://unlimited1-us.dps.live/tvr/tvr.smil/playlist.m3u8
+#EXTINF:-1,TV UCT (1080p) [Spanish]
+https://unlimited1-us.dps.live/uct/uct.smil/playlist.m3u8
+#EXTINF:-1,Universidad Autónoma Temuco (UATV) (1080p) [Not 24/7] [Spanish]
+https://unlimited1-us.dps.live/uatv/uatv.smil/playlist.m3u8
+#EXTINF:-1,Universidad Autónoma Temuco (UATV) (1080p) [Not 24/7] [Spanish]
+https://unlimited6-cl.dps.live/uatv/uatv.smil/playlist.m3u8
+#EXTINF:-1,U Los Lagos TV (1080p) [Not 24/7] [Spanish]
+http://tv.ulagos.cl/web/live.m3u8
+#EXTINF:-1,Vida TV (1080p) [Spanish] [religious]
+http://181.224.64.2:89/vidatv/index.m3u8
+#EXTINF:-1,Avivamiento TV (1080p) [Not 24/7] [Spanish] [religious]
+https://s1.abntelevision.com/avivamientoabr/stream/avivamientohd/avivamientohd/playlist.m3u8
+#EXTINF:-1,Cablenoticias (Bogotà | Cundinamarca) (1080p) [Spanish] [news]
+https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8
+#EXTINF:-1,Canal Capital (1080p) [Spanish] [general]
+https://play.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C021/021/playlist.m3u8
+#EXTINF:-1,Trece (1080p) [Spanish]
+https://stream.logicideas.media/canaltrece-live/smil:live.smil/playlist.m3u8
+#EXTINF:-1,Trece + (1080p) [Spanish]
+https://stream.logicideas.media/canaltreceplus-live/smil:live1plus.smil/playlist.m3u8
+#EXTINF:-1,Zoom (Bogotà | Cundinamarca) (1080p) [Spanish]
+https://canalzoom.itex.com.co:3027/live/canalzoombr1live.m3u8
+#EXTINF:-1,Agrotendencia TV (1080p) [Spanish] [outdoor]
+https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8
+#EXTINF:-1,HBTV TicaVisión (1080p) [Spanish]
+https://62fc643fbf1aa.streamlock.net/HBTV/HBTV/playlist.m3u8
+#EXTINF:-1,Alfa Sport (1080p) [Not 24/7] [Greek] [sports]
+https://dev.aftermind.xyz/edge-hls/unitrust/alfasports/index.m3u8?token=8TXWzhY3h6jrzqEqu
+#EXTINF:-1,Alfa Sport (1080p) [Not 24/7] [Greek] [sports]
+https://dev.aftermind.xyz/hls/unitrust/alfasports/index.m3u8?token=8TXWzhY3h6jrzqEqu
+#EXTINF:-1,Vouli TV (1080p)
+https://dev.aftermind.xyz/hls/unitrust/voulitv/index.m3u8?token=8TXWzhY3h6jrzqEqu
+#EXTINF:-1,Vouli TV (1080p) [Not 24/7]
+https://dev.aftermind.xyz/edge-hls/unitrust/voulitv/index.m3u8?token=8TXWzhY3h6jrzqEqu
+#EXTINF:-1,Polar TV (1080p) [Czech]
+https://stream.polar.cz/polar/polarlive-1/playlist.m3u8
+#EXTINF:-1,Praha TV (1080p) [Czech]
+https://stream.polar.cz/prahatv/prahatvlive-1/playlist.m3u8
+#EXTINF:-1,Polar 2 TV (1080p)
+https://stream.polar.cz/polar2/polarlive2-1/playlist.m3u8
+#EXTINF:-1,Boss Brothers TV (1080p) [French] [general]
+http://51.254.199.122:8080/bossbrothersTV/index.m3u8
+#EXTINF:-1,TV2/Bornholm (1080p) [Not 24/7] [Danish]
+https://live.tv2bornholm.dk/stream/live/playlist.m3u8
+#EXTINF:-1,TV2 Fyn (1080p) [Danish]
+https://cdnapisec.kaltura.com/p/1966291/sp/196629100/playManifest/entryId/0_vsfrv0zm/format/applehttp/protocol/https/uiConfId/30288171/a.m3u8
+#EXTINF:-1,Folketing (1080p) [Danish English] [legislative]
+https://cdnapi.kaltura.com/p/2158211/sp/327418300/playManifest/entryId/1_24gfa7qq/protocol/https/format/applehttp/a.m3u8
+#EXTINF:-1,Bellavisión (1080p) [Spanish]
+https://cdn4.hostlagarto.com:8081/static/Bellavision8hd/playlist.m3u8
+#EXTINF:-1,Carivision (1080p) [Spanish]
+https://ss5.domint.net:3174/car_str/carivision/playlist.m3u8
+#EXTINF:-1,Tele Caribe (1080p) [Spanish] [entertainment;music]
+https://cloudflare.streamgato.us:3413/live/telecaribehdlive.m3u8
+#EXTINF:-1,Tu Música HD (1080p) [Spanish] [music]
+https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
+#EXTINF:-1,TV Montaña Canal 10 (1080p) [Spanish]
+https://ss5.domint.net:3064/tvm_str/montanatv/playlist.m3u8
+#EXTINF:-1,EducaTV (1080p) [Not 24/7] [Spanish] [education]
+https://cloud7.streamingcnt.net/cnt/educa/playlist.m3u8
+#EXTINF:-1,Oromar TV (1080p) [Spanish]
+https://stream.oromartv.com:8082/hls/oromartv.m3u8
+#EXTINF:-1,Watan TV (1080p) [Arabic] [general]
+https://cdg8.edge.technocdn.com/watantv/live/playlist.m3u8
+#EXTINF:-1,Taber TV (1080p)
+https://5ca9af4645e15.streamlock.net/tabertv/smil:tabertv.smil/playlist.m3u8
+#EXTINF:-1,TBN Baltia (1080p) [Russian] [religious]
+http://dc.tbnbaltia.eu:8088/dvr/rewind-21600.m3u8
+#EXTINF:-1,D5tv (1080p) [French]
+http://live.creacast.com/d5tv/smil:d5tv.smil/playlist.m3u8
+#EXTINF:-1,DBM TV (1080p) [French]
+http://dbmtv.vedge.infomaniak.com/livecast/dbmtv/playlist.m3u8
+#EXTINF:-1,DBM (1080p) [French]
+https://edge.vedge.infomaniak.com/livecast/ik:dbmtv/manifest.m3u8
+#EXTINF:-1,Francophonie24 (1080p) [French]
+https://5421175365ea3.streamlock.net/live/smil:switch.smil/playlist.m3u8
+#EXTINF:-1,MyZen TV (1080p) [French English Russian Spanish Turkish Bulgarian]
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8
+#EXTINF:-1,Tébéo TV (1080p) [French] [general]
+https://start-1.direct.live/hls/tebeo.m3u8
+#EXTINF:-1,TébéSud (1080p) [French]
+https://start-2.direct.live/hls/tebesud.m3u8
+#EXTINF:-1,TF1 (1080p) [French] [entertainment]
+https://tf1-hls-live-cdn1.tf1.fr/out/v1/c2e382be3aa2486e8753747e7bb6157e/index.m3u8
+#EXTINF:-1,TF1 Séries Films (1080p) [French] [movies]
+https://tsf-hls-live-cdn1.tf1.fr/out/v1/0326aeefae1a405c9a9732d6f80a66df/index.m3u8
+#EXTINF:-1,TFX (1080p) [French English]
+https://tfx-hls-live-cdn1.tf1.fr/out/v1/818e38d791854222b71a950791fb7002/index.m3u8
+#EXTINF:-1,TMC (1080p) [French]
+https://tmc-hls-live-cdn1.tf1.fr/out/v1/982927d0b5d24bd58ac42184b10c63d7/index.m3u8
+#EXTINF:-1,TV Pitchoun (1080p) [French]
+https://live.tvradio-pitchoun.fr/hls/live.m3u8
+#EXTINF:-1,ViàMatélé (1080p) [French]
+https://5dd226f8f01e8.streamlock.net/via-matele-live/matelelive_1080/playlist.m3u8
+#EXTINF:-1,Persiana Plus (1080p) [Persian] [movies]
+http://51.210.199.21/hls/stream.m3u8
+#EXTINF:-1,MyTime Movie Network (1080p)
+https://mytimemoviefrance-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1,TNTV (1080p) [French] [general]
+https://tntv-samsung-fr.amagi.tv/playlist.m3u8
+#EXTINF:-1,Mytime Movies (1080p)
+https://mytimefrance-rakuten-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1,Formula (1080p) [Georgian]
+https://c4635.cdn.xsg.ge/c4635/TVFormula/index.m3u8
+#EXTINF:-1,Formula (1080p) [Georgian]
+https://tv.cdn.xsg.ge/c4635/TVFormula/playlist.m3u8
+#EXTINF:-1,Alex Berlin (1080p) [Not 24/7] [German]
+https://alex-stream.rosebud-media.de/live/alexlivetv40.smil/playlist.m3u8
+#EXTINF:-1,Altenburg TV (1080p) [German]
+https://58de7a369a9c4.streamlock.net/abgtv/abgtv_1080p/playlist.m3u8
+#EXTINF:-1,Baden TV (1080p) [Not 24/7] [German]
+http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
+#EXTINF:-1,Baden TV (1080p) [Not 24/7] [German]
+http://badentv-stream2.siebnich.info/rtplive/btv.stream/playlist.m3u8
+#EXTINF:-1,Baden TV (1080p) [Not 24/7] [German]
+https://cdn.icu.de/rtplive/btv.stream/playlist.m3u8
+#EXTINF:-1,DW Arabic (1080p) [Arabic] [news]
+https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
+#EXTINF:-1,DW Español (1080p) [Spanish] [news]
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF:-1,HSE24 Extra (1080p) [German]
+https://hse24extra.akamaized.net/hls/live/2006596/hse24extra/playlist.m3u8
+#EXTINF:-1,HSE (1080p) [German]
+https://hse24.akamaized.net/hls/live/2006663/hse24/playlist.m3u8
+#EXTINF:-1,KulturMD (1080p) [German]
+http://58bd5b7a98e04.streamlock.net/medienasa-live/kulturmd_high/playlist.m3u8
+#EXTINF:-1,Lausitzwelle (1080p) [German]
+https://h056.video-stream-hosting.de/easycast11-live/_definst_/mp4:livestreamhd2/playlist.m3u8?ref=
+#EXTINF:-1,MDF.1 (1080p) [German]
+http://58bd5b7a98e04.streamlock.net/medienasa-live/mdf1_high/playlist.m3u8
+#EXTINF:-1,Muxx.tv (1080p) [German]
+https://h056.video-stream-hosting.de/easycast9-live/_definst_/mp4:livestream99/playlist.m3u8?ref=
+#EXTINF:-1,NRWision (1080p) [German]
+https://fms.nrwision.de/live/livestreamHD.stream/playlist.m3u8
+#EXTINF:-1,NRWISION (1080p) [German]
+https://fms.nrwision.de/live/livestreamHD.stream_source/playlist.m3u8
+#EXTINF:-1,NRWision (720p) [German]
+https://fms.nrwision.de/live/livestreamHD.stream_1080p/playlist.m3u8
+#EXTINF:-1,Oberlausitz TV (1080p) [German]
+https://h056.video-stream-hosting.de/easycast8-live/_definst_/mp4:livestreamhd4/playlist.m3u8?ref=
+#EXTINF:-1,OK Dessau (1080p) [Not 24/7] [German]
+http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-dessau_high/playlist.m3u8
+#EXTINF:-1,OK Magdeburg (1080p) [German]
+http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-magdeburg_high/playlist.m3u8
+#EXTINF:-1,OK Merseburg-Querfurt (1080p) [Not 24/7] [German]
+http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-merseburg_high/playlist.m3u8
+#EXTINF:-1,OK Salzwedel (1080p) [Not 24/7] [German]
+http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-salzwedel_high/playlist.m3u8
+#EXTINF:-1,OK Stendal (1080p) [Not 24/7] [German]
+http://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-stendal_high/playlist.m3u8
+#EXTINF:-1,OK Stendal (1080p) [German]
+http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-stendal_high/playlist.m3u8
+#EXTINF:-1,OK Wernigerode (1080p) [German]
+http://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-wernigerode_high/playlist.m3u8
+#EXTINF:-1,OK Wernigerode (1080p) [German]
+http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-wernigerode_high/playlist.m3u8
+#EXTINF:-1,PunktUM (1080p) [German]
+http://58bd5b7a98e04.streamlock.net/medienasa-live/punktum_high/playlist.m3u8
+#EXTINF:-1,Ran 1 (1080p) [German]
+http://58bd5b7a98e04.streamlock.net/medienasa-live/ran1_high/playlist.m3u8
+#EXTINF:-1,RBW (1080p) [German]
+http://58bd5b7a98e04.streamlock.net/medienasa-live/rbw_high/playlist.m3u8
+#EXTINF:-1,RFH TV (1080p) [German]
+http://58bd5b7a98e04.streamlock.net/medienasa-live/RFH_high/playlist.m3u8
+#EXTINF:-1,Sachsen Eins (1080p) [German]
+http://sachsen1.iptv-playoutcenter.de/sachsen1/sachsen1.stream_1/playlist.m3u8
+#EXTINF:-1,Seenluft24 (1080p) [German]
+https://h056.video-stream-hosting.de/easycast7-live/_definst_/mp4:livestreamhd20/playlist.m3u8?ref=
+#EXTINF:-1,Sonus FM Alemania (1080p) [Not 24/7] [German]
+http://www.sonus.fm:1935/public/stream_source/playlist.m3u8
+#EXTINF:-1,Teins TV (1080p) [Not 24/7] [German]
+https://live1.markenfunk.com/t1/live/playlist.m3u8
+#EXTINF:-1,Tide TV (1080p) [German]
+https://5889e7d0d6e28.streamlock.net/tide-live/_definst_/smil:livestream.smil/playlist.m3u8
+#EXTINF:-1,Tide TV (1080p) [Not 24/7] [German]
+https://5889e7d0d6e28.streamlock.net/tide-live/smil:livestream.smil/playlist.m3u8
+#EXTINF:-1,H1 Fernsehen (1080p)
+https://5857499ee635b.streamlock.net/heinstv-live/_definst_/smil:livestream.smil/playlist.m3u8
+#EXTINF:-1,Adult Swim Black Jesus (1080p) [Geo-blocked] [English] [series]
+http://adultswim-vodlive.cdn.turner.com/live/black-jesus/stream_de.m3u8
+#EXTINF:-1,Adult Swim Dream Corp LLC (1080p) [Geo-blocked] [English] [comedy]
+http://adultswim-vodlive.cdn.turner.com/live/DREAM-CORP-LLC/stream_de.m3u8
+#EXTINF:-1,Adult Swim Metalocalypse (1080p) [Geo-blocked] [English] [entertainment]
+http://adultswim-vodlive.cdn.turner.com/live/metalocalypse/stream_de.m3u8
+#EXTINF:-1,Adult Swim The Eric Andre Show (1080p) [Geo-blocked] [English] [series]
+http://adultswim-vodlive.cdn.turner.com/live/eric-andre/stream_de.m3u8
+#EXTINF:-1,Adult Swim Mr. Pickles (1080p) [Geo-blocked]
+http://adultswim-vodlive.cdn.turner.com/live/mr-pickles/stream_de.m3u8
+#EXTINF:-1,Adult Swim Rick and Morty (1080p) [Geo-blocked]
+http://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream_de.m3u8
+#EXTINF:-1,Adult Swim Tim and Eric (1080p) [Geo-blocked]
+http://adultswim-vodlive.cdn.turner.com/tim-and-eric/stream_de.m3u8
+#EXTINF:-1,Baraza TV (1080p) [Greek] [music]
+https://eco.streams.ovh/BarazaTV/BarazarazaTV/BarazaTV/playlist.m3u8
+#EXTINF:-1,Baraza TV (1080p) [Greek] [music]
+https://eco.streams.ovh/BarazaTV/BarazaTV/playlist.m3u8
+#EXTINF:-1,Ellas TV (1080p) [Greek]
+http://ellastv.gotdns.com:88/freetv/promo/index.m3u8
+#EXTINF:-1,Kontra Channel (1080p) [Greek]
+http://kontralive.siliconweb.com/live/kontratv/playlist.m3u8
+#EXTINF:-1,MGR TV (1080p) [Not 24/7] [Greek]
+https://vod.streams.ovh:3876/stream/play.m3u8
+#EXTINF:-1,Ionian Channel (1080p) [Not 24/7]
+http://stream.ioniantv.gr:8081/ionian/live/playlist.m3u8
+#EXTINF:-1,TMA (1080p) [French] [music]
+http://hls.tmacaraibes.com/live/index.m3u8
+#EXTINF:-1,Ceiba Vision Canal 36 (1080p) [Spanish]
+http://154.53.36.15:1935/CANAL36/myStream/playlist.m3u8
+#EXTINF:-1,Choluteca TV (1080p) [Spanish] [religious]
+https://emisoras.hn:8081/cholutecatv/playlist.m3u8
+#EXTINF:-1,CTV Internacional (1080p) [Spanish]
+https://mediacp.us:8081/ctvhn/index.m3u8
+#EXTINF:-1,EDN TV (1080p) [Not 24/7] [Spanish]
+https://60417ddeaf0d9.streamlock.net/edntv/videoedntv/playlist.m3u8
+#EXTINF:-1,Phoenix Chinese Channel (鳳凰衛視中文) (1080p) [Chinese] [general]
+https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
+#EXTINF:-1,Phoenix InfoNews Channel (鳳凰衛視資訊) (1080p) [Chinese] [news]
+https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
+#EXTINF:-1,RTHK (港台電視32) (1080p) [Chinese English]
+https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
+#EXTINF:-1,TV Eger (1080p) [Hungarian]
+http://stream.tveger.hu:8010/live.m3u8
+#EXTINF:-1,Boogle Bollywood (1080p) [Not 24/7] [Hindi] [movies]
+http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
+#EXTINF:-1,EET TV (1080p) [Not 24/7] [Tamil] [entertainment]
+https://live.streamjo.com/eetlive/eettv.m3u8
+#EXTINF:-1,GDNS Ludhiana (1080p) [Not 24/7] [Hindi]
+http://akalmultimedia.net:1935/gdnslive/gdns-live/chunklist.m3u8
+#EXTINF:-1,Real News Kerala (1080p) [Not 24/7] [Malayalam] [news]
+https://bk7l298nyx53-hls-live.5centscdn.com/realnews/e7dee419f91aa9e65939d3677fb9c4f5.sdp/playlist.m3u8
+#EXTINF:-1,SVBC Sri Venkateswara Bhakti Channel (1080p) [Telugu] [religious]
+https://player.mslivestream.net/telugu/5d076e5c3d34cb8bb08e54a4bb7e223e.sdp/playlist.m3u8
+#EXTINF:-1,WION (1080p) [English] [news]
+https://d2xqcdx4c8vu9s.cloudfront.net/out/v1/15b8393e9a9240b8bedd4c79ccefb301/index.m3u8
+#EXTINF:-1,WION (1080p) [English] [news]
+https://dai.google.com/linear/hls/event/x_dFvsORSZWERbxrltEk0g/master.m3u8
+#EXTINF:-1,Sada TV (1080p) [Not 24/7]
+http://cdn12.henico.net:8080/live/sadatv/index.m3u8
+#EXTINF:-1,InTrouble (1080p) [English]
+https://introuble-samsungindia.amagi.tv/playlist.m3u8
+#EXTINF:-1,BRTV (1080p) [Not 24/7] [Indonesian]
+https://e1.siar.us/badartv/live/playlist.m3u8
+#EXTINF:-1,My Cinema (1080p) [English] [movies]
+http://210.210.155.37/uq2663/h/h192/index.m3u8
+#EXTINF:-1,My Cinema Asia (1080p) [Geo-blocked] [Chinese] [movies]
+http://210.210.155.37/uq2663/h/h193/index.m3u8
+#EXTINF:-1,My Family Channel (1080p) [Geo-blocked] [English] [family]
+http://210.210.155.37/uq2663/h/h194/index.m3u8
+#EXTINF:-1,My Kidz (1080p) [Geo-blocked] [Indonesian] [kids]
+http://210.210.155.37/uq2663/h/h191/index.m3u8
+#EXTINF:-1,Puja TV Aceh (1080p) [Not 24/7] [Indonesian]
+https://v6.siar.us/pujatv/live/chunks.m3u8
+#EXTINF:-1,Press TV French (1080p) [Not 24/7] [French] [news]
+https://live1.presstv.ir/live/presstvfr/index.m3u8
+#EXTINF:-1,Varzesh (1080p) [Persian]
+http://cdn1.live.irib.ir:1935/channel-live/smil:varzesh/playlist.m3u8
+#EXTINF:-1,VARZESH (1080p) [Persian]
+http://cdn1.live.irib.ir:1935/live-channels/smil:varzesh/playlist.m3u8
+#EXTINF:-1,Marjaeyat (1080p) [Not 24/7]
+https://livefa.marjaeyattv.com/mtv_fa/playlist.m3u8
+#EXTINF:-1,Al Sharqiya (1080p) [Not 24/7] [Arabic] [general]
+http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
+#EXTINF:-1,Al Sharqiya News (1080p) [Arabic] [news]
+http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
+#EXTINF:-1,Amozhgary TV (1080p) [Kurdish]
+https://media.streambrothers.com:1936/8248/8248/playlist.m3u8
+#EXTINF:-1,Dijlah (1080p) [Arabic] [news]
+http://91.134.145.75:10001/Dijlah/index.m3u8
+#EXTINF:-1,Hala TV (1080p) [Not 24/7] [Arabic]
+https://live2.panet.co.il/edge_abr/halaTV/playlist.m3u8
+#EXTINF:-1,Hala TV (1080p) [Not 24/7] [Arabic]
+https://live1.panet.co.il/edge_abr/halaTV/playlist.m3u8
+#EXTINF:-1,Kiss Kiss TV (1080p) [Italian]
+https://58f12ffd2447a.streamlock.net/KKMulti/livestream/playlist.m3u8
+#EXTINF:-1,Primocanale (1080p) [Not 24/7] [Italian]
+https://msh0203.stream.seeweb.it/live/flv:stream2.sdp/playlist.m3u8
+#EXTINF:-1,Radio Studio Delta TV (1080p) [Not 24/7] [Italian]
+https://5ce9406b73c33.streamlock.net/RSD/ngrp:livestream_all/playlist.m3u8
+#EXTINF:-1,Senato TV (1080p) [Italian] [legislative]
+https://senato-live.morescreens.com/SENATO_1_001/playlist.m3u8
+#EXTINF:-1,Telemolise (1080p) [Italian]
+http://185.202.128.1:1935/TelemoliseStream/telemoliseTV.stream/playlist.m3u8
+#EXTINF:-1,Vera TV (1080p) [Not 24/7] [Italian]
+http://wms.shared.streamshow.it/veratv/mp4:veratv/playlist.m3u8
+#EXTINF:-1,Vera TV (Marche) (1080p) [Not 24/7] [Italian]
+http://wms.shared.streamshow.it/veratv/veratv/playlist.m3u8
+#EXTINF:-1,Gold 78 (1080p)
+https://stream2.xdevel.com/video1s86-22/stream/playlist_dvr.m3u8
+#EXTINF:-1,NHK World Japan (1080p) [English] [news;culture]
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+#EXTINF:-1,Al Mamlaka TV (1080p) [Arabic] [general]
+https://almamlka-live.ercdn.net/almamlka/almamlka.m3u8
+#EXTINF:-1,Alhaqeqa Aldawlia (1080p) [Arabic]
+https://ghaasiflu.online/alhqeqa/index.m3u8
+#EXTINF:-1,Atameken Business (1080p) [Not 24/7] [Russian] [business]
+http://live-atameken.cdnvideo.ru/atameken/atameken.sdp/playlist.m3u8
+#EXTINF:-1,Al Maali TV (1080p) [Arabic] [religious]
+https://kali.vdopanel.com:3986/live/mbashalive.m3u8
+#EXTINF:-1,TV1 KG (1080p) [Russian]
+http://212.2.225.30:1935/live/site.stream/playlist.m3u8
+#EXTINF:-1,CharityTV (1080p) [Not 24/7] [Arabic] [religious]
+http://185.105.4.236:1935/live/ngrp:livestream_all/live.m3u8
+#EXTINF:-1,MTV Lebanon (1080p) [Arabic]
+https://live.3cd.io/v1/broadcast/mtv/playlist.m3u8
+#EXTINF:-1,One TV Lebanon (1080p) [Arabic]
+https://live.3cd.io/v1/broadcast/one/playlist.m3u8
+#EXTINF:-1,Chamber TV (1080p) [Letzeburgesch]
+https://media02.webtvlive.eu/chd-edge/smil:chamber_tv_hd.smil/playlist.m3u8
+#EXTINF:-1,Jasmin TV (1080p) [English] [xxx]
+http://109.71.163.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
+#EXTINF:-1,Jasmin TV (1080p) [English] [xxx]
+http://109.71.163.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
+#EXTINF:-1,Luxe TV (1080p) [English Chinese French Russian]
+https://alchimie-luxe-fr-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1,Luxe TV (1080p) [English Chinese French Russian]
+https://alchimie-luxe-uk-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1,VTV (1080p) [Dhivehi]
+https://vtvstream.vnews.mv/vtvlive/vmedia/playlist.m3u8
+#EXTINF:-1,El NU9VE (1080p) [Spanish] [entertainment]
+https://linear-352.frequency.stream/352/hls/master/playlist.m3u8
+#EXTINF:-1,RCG TV (1080p) [Spanish]
+https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8
+#EXTINF:-1,Sistema Michoacano de TV (1080p) [Spanish]
+https://60ed5b6d0df78.streamlock.net:1936/enlinea/enlinea/playlist.m3u8
+#EXTINF:-1,Televisa Guadalajara (1080p) [Spanish]
+https://linear-402.frequency.stream/402/hls/master/playlist.m3u8
+#EXTINF:-1,TV Cuatro 4.1 (1080p) [Spanish]
+https://5f1af61612fb5.streamlock.net/tv4/tv4.smil/.m3u8
+#EXTINF:-1,TV Cuatro 4.2 (1080p) [Spanish]
+https://5f2c1b0d880e5.streamlock.net/tv42/tv42.smil/.m3u8
+#EXTINF:-1,TV Cuatro 4.3 (1080p) [Spanish]
+https://5f1af61612fb5.streamlock.net/tv43/tv43.smil/.m3u8
+#EXTINF:-1,Estrella Games (1080p)
+https://estrella-games-oando.amagi.tv/playlist.m3u8
+#EXTINF:-1,Estrella News (1080p)
+https://estrella-news-oando.amagi.tv/playlist.m3u8
+#EXTINF:-1,Estrella TV (1080p)
+https://estrellatv-oando.amagi.tv/playlist.m3u8
+#EXTINF:-1,Tastemade en Español (1080p) [Spanish] [cooking]
+https://tastemadees16intl-samsungmexico.amagi.tv/playlist.m3u8
+#EXTINF:-1,Moldova1 (1080p) [Romanian] [general]
+http://live.trm.md:1935/live/MoldovaUnu1/playlist.m3u8
+#EXTINF:-1,Moldova2 (1080p) [Romanian] [general]
+http://live.trm.md:1935/live/MoldovaDoi2/playlist.m3u8
+#EXTINF:-1,Drochia (1080p) [Not 24/7]
+https://hls.drochia.tv/tv/web.m3u8
+#EXTINF:-1,Medi 1 TV Afrique (1080p) [Not 24/7] [French] [news]
+http://streaming2.medi1tv.com/live/smil:medi1fr.smil/playlist.m3u8
+#EXTINF:-1,Medi 1 TV Arabic (1080p) [Not 24/7] [Arabic] [news]
+http://5f72f3a9b06b7.streamlock.net/live/smil:medi1ar.smil/playlist.m3u8
+#EXTINF:-1,Medi 1 TV Maghreb (1080p) [Not 24/7] [French Arabic] [news]
+http://streaming1.medi1tv.com/live/smil:medi1tv.smil/playlist.m3u8
+#EXTINF:-1,1Twente TV (1080p) [Dutch] [general]
+https://ms2.mx-cd.net/dtv-10/198-989148/1Twente_TV.smil/playlist.m3u8
+#EXTINF:-1,A1 TV (1080p) [Not 24/7] [Dutch] [general]
+http://stream.a1mediagroep.nl/hls/a1tv.m3u8
+#EXTINF:-1,Den Haag TV (1080p) [Not 24/7] [Dutch]
+http://wowza5.video-streams.nl:1935/denhaag/denhaag/playlist.m3u8
+#EXTINF:-1,Groningen1 (1080p) [Not 24/7] [Dutch]
+http://59132e529e3d1.streamlock.net/Groningen1/Groningen1/playlist.m3u8
+#EXTINF:-1,Omroep Brabant (1080p) [Dutch]
+https://d3slqp9xhts6qb.cloudfront.net/live/omroepbrabant/tv/index.m3u8
+#EXTINF:-1,Omroep Brabant Radio (1080p) [Dutch]
+https://d3slqp9xhts6qb.cloudfront.net/live/omroepbrabant/visualradio/index.m3u8
+#EXTINF:-1,Omroep Zeeland (1080p) [Dutch]
+https://d3isaxd2t6q8zm.cloudfront.net/live/omroepzeeland/tv/index.m3u8
+#EXTINF:-1,Omrop Fryslân (1080p) [Not 24/7] [Dutch Western Frisian]
+https://d3pvma9xb2775h.cloudfront.net/live/omropfryslan/stream04/index.m3u8
+#EXTINF:-1,Omroep P&M TV (1080p) [Not 24/7] [Dutch]
+https://ms7.mx-cd.net/dtv-10/153-840564/Omroep_Peel_en_Maas_TV.smil/playlist.m3u8
+#EXTINF:-1,Regio8 TV (1080p) [Dutch]
+https://ms7.mx-cd.net/dtv-10/91-475821/Regio8TV.smil/playlist.m3u8
+#EXTINF:-1,Regio TV Nieuws (1080p) [Not 24/7] [Dutch]
+http://highvolume04.streampartner.nl/regiomedia/regiomedia/playlist.m3u8
+#EXTINF:-1,RTV Drenthe (1080p) [Dutch]
+https://cdn.rtvdrenthe.nl/live/rtvdrenthe/tv/index.m3u8
+#EXTINF:-1,RTV GO! (1080p) [Not 24/7] [Dutch]
+http://59132e529e3d1.streamlock.net:1935/Groningen1/Groningen1/playlist.m3u8
+#EXTINF:-1,RTV Rijnmond (1080p) [Dutch]
+https://dcur8bjarl5c2.cloudfront.net/live/rijnmond/tv/index.m3u8
+#EXTINF:-1,RTV Slingeland (1080p) [Not 24/7] [Dutch]
+https://ms7.mx-cd.net/dtv-10/105-475831/RTV_Slingeland.smil/playlist.m3u8
+#EXTINF:-1,Omroep West (1080p) [Not 24/7] [Dutch]
+https://d1axml5ozykh3g.cloudfront.net/live/omroepwest/tv/index.m3u8
+#EXTINF:-1,WOS TV (1080p) [Dutch]
+https://ms2.mx-cd.net/dtv-11/99-660295/WOS.smil/playlist.m3u8
+#EXTINF:-1,WOS TV (1080p) [Dutch]
+https://ms7.mx-cd.net/dtv-11/99-660295/WOS.smil/playlist.m3u8
+#EXTINF:-1,WOS TV (1080p) [Dutch]
+https://ms7.mx-cd.net/tv/99-660295/WOS.smil/playlist.m3u8
+#EXTINF:-1,Omroep Almere (1080p)
+https://wowza2.videostreamingwowza.com/OAlmerelive/OAlmerelive/playlist.m3u8
+#EXTINF:-1,Fuel TV (1080p) [Not 24/7]
+http://fueltv-fueltv-14-nl.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Wairarapa TV (1080p) [Not 24/7] [English]
+https://stream.wairarapatv.co.nz/Broadband_High/playlist.m3u8
+#EXTINF:-1,Zoo Moo (1080p)
+https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
+#EXTINF:-1,Zoo Moo (1080p)
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
+#EXTINF:-1,TVC (1080p) [English]
+https://tvce.gridpapaservers.com/TVCSEPT/ngrp:myStream_all/playlist.m3u8
+#EXTINF:-1,MusawaChannel (1080p) [Not 24/7] [Arabic] [general]
+https://pbc.furrera.ps/musawahd/index.m3u8
+#EXTINF:-1,Palestine Satellite Channel (1080p) [Arabic] [general]
+https://pbc.furrera.ps/palestinehd/index.m3u8
+#EXTINF:-1,Palestine Satellite Channel (1080p) [Arabic] [general]
+https://pbc.furrera.ps/palestinelivehd/index.m3u8
+#EXTINF:-1,Seraj TV (1080p) [Arabic]
+https://live01.iflex.ps/Aqsa/index.m3u8
+#EXTINF:-1,Chicos IPe (1080p) [Not 24/7] [Spanish] [family]
+http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
+#EXTINF:-1,Galáctica TV (Peru) (1080p) [Not 24/7] [Spanish] [music]
+https://pacific.direcnode.com:3715/hybrid/play.m3u8
+#EXTINF:-1,Monterrico TV (1080p) [Not 24/7] [Spanish] [sports]
+http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8
+#EXTINF:-1,Monterrico TV (1080p) [Not 24/7] [Spanish] [sports]
+https://ed3od.live.opencaster.com/jcpstream_hd720/index.m3u8
+#EXTINF:-1,Monterrico TV (1080p) [Not 24/7] [Spanish] [sports]
+https://www.opencaster.com/resources/hls_stream/hipodromojcp2.m3u8
+#EXTINF:-1,CCTN 47 (1080p) [Not 24/7] [Tagalog]
+http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8
+#EXTINF:-1,INC TV (1080p) [Tagalog]
+https://cocphil.akamaized.net/hls/live/2042846/inctv/playlist.m3u8
+#EXTINF:-1,Telewizja Toruń (1080p) [Not 24/7] [Polish]
+http://217.173.176.107:1935/live/ngrp:tvk.stream_mobile/chunks.m3u8
+#EXTINF:-1,TV Toruń (1080p) [Polish]
+http://217.173.176.107:1935/live/tvk.stream/playlist.m3u8
+#EXTINF:-1,Radio Czworka (1080p)
+https://stream14.polskieradio.pl/pr4_video/video_pr4.stream/playlist.m3u8
+#EXTINF:-1,Kuriakos Music (1080p) [Portuguese] [music]
+http://195.23.211.179:1935/kmusic/smil:kmusic.smil/playlist.m3u8
+#EXTINF:-1,Kuriakos TV (1080p) [Portuguese] [religious]
+https://w1.manasat.com/ktv/smil:ktv.smil/playlist.m3u8
+#EXTINF:-1,SIC (1080p) [Portuguese]
+https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
+#EXTINF:-1,Sobrenatural TV (1080p) [Portuguese] [religious]
+http://213.13.26.11:1935/live/sobrenaturaltv/livestream.m3u8
+#EXTINF:-1,TV Maná 1 (1080p) [Portuguese] [religious]
+https://w1.manasat.com/tvmana-1/smil:tvmana-1.smil/playlist.m3u8
+#EXTINF:-1,TV Maná 2 (1080p) [Portuguese] [religious]
+https://w1.manasat.com/tvmana-2/smil:tvmana-2.smil/playlist.m3u8
+#EXTINF:-1,TV Maná Brazil (1080p) [Portuguese] [religious]
+https://w1.manasat.com/tvmana-brasil/smil:tvmana-brasil.smil/playlist.m3u8
+#EXTINF:-1,TV Maná English (1080p) [English] [religious]
+https://w1.manasat.com/tvmana-english/smil:tvmana-english.smil/playlist.m3u8
+#EXTINF:-1,TV Maná Mozambique (1080p) [Portuguese] [religious]
+https://w2.manasat.com/tvmana-mz/smil:tvmana-mz.smil/playlist.m3u8
+#EXTINF:-1,TV Maná Español (1080p) [Spanish] [religious]
+https://w1.manasat.com/tvmana-espanol/smil:tvmana-espanol.smil/playlist.m3u8
+#EXTINF:-1,Mas TV (1080p)
+https://video1.getstreamhosting.com:1936/8212/8212/playlist.m3u8
+#EXTINF:-1,Pro TV News (1080p)
+https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-voyo-news/playlist.m3u8?offsetSeconds=0&url=0
+#EXTINF:-1,360° (1080p) [Not 24/7] [Russian] [general]
+https://edge2-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/index.m3u8
+#EXTINF:-1,Афонтово (Красноярск) (1080p) [Geo-blocked] [Russian]
+http://xstream.afontovo.ru/afontovo_ya.m3u8
+#EXTINF:-1,Белгород 24 (1080p) [Russian]
+http://belnovosti.cdn.easyhoster.ru:8080/stream.m3u8
+#EXTINF:-1,Дагестан (1080p) [Russian]
+https://dagestan.mediacdn.ru/cdn/dagestan/playlist.m3u8
+#EXTINF:-1,Дорама (1080p) [Not 24/7] [Russian English] [movies]
+https://sc.id-tv.kz/dorama_hd.m3u8
+#EXTINF:-1,Енисей (1080p) [Not 24/7] [Russian]
+http://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
+#EXTINF:-1,Киномикс (1080p) [Not 24/7] [Russian] [movies]
+https://sc.id-tv.kz/Kinomix_hd.m3u8
+#EXTINF:-1,Кинопремьера (1080p) [Not 24/7] [Russian] [movies]
+https://sc.id-tv.kz/Kinopremiera_hd.m3u8
+#EXTINF:-1,Киносемья (1080p) [Not 24/7] [Russian] [movies]
+https://sc.id-tv.kz/Kinosemiya_hd.m3u8
+#EXTINF:-1,Киносвидание (1080p) [Not 24/7] [Russian] [movies]
+https://sc.id-tv.kz/Kinosvidanie_hd.m3u8
+#EXTINF:-1,ЛДПР ТВ (1080p) [Russian] [general]
+http://46.46.143.222:1935/live/mp4:ldpr.stream/playlist.m3u8
+#EXTINF:-1,Leomax 24 (1080p) [Russian] [shop]
+https://tvshops.bonus-tv.ru/cdn/shop24/playlist.m3u8
+#EXTINF:-1,Матур ТВ (1080p) [Russian] [music]
+https://public.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8
+#EXTINF:-1,Мир 24 (1080p) [Russian] [news]
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
+#EXTINF:-1,Мир 24 (1080p) [Russian] [news]
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:-1,Мир (1080p) [Not 24/7] [Russian] [general]
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1,Мужское кино (1080p) [Not 24/7] [Russian] [movies]
+https://sc.id-tv.kz/Mujskoe_kino_hd.m3u8
+#EXTINF:-1,НТС (Севастополь) (1080p) [Not 24/7] [Russian]
+https://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/playlist.m3u8
+#EXTINF:-1,НВК Саха (1080p) [Not 24/7] [Russian]
+http://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8
+#EXTINF:-1,Первый Псковский (540p) [Not 24/7] [Russian]
+http://194.190.78.91/pskov/rewind-10800.m3u8
+#EXTINF:-1,Прима (1080p) [Russian]
+https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Prima/hls/index.m3u8
+#EXTINF:-1,Ростов-папа (1080p) [Russian]
+http://live-rostovpapa.cdnvideo.ru/rostovpapa/rostovpapa.sdp/playlist.m3u8
+#EXTINF:-1,RT Arabic (1080p) [Geo-blocked] [Arabic] [news]
+https://rt-arb.rttv.com/live/rtarab/playlist.m3u8
+#EXTINF:-1,RT Documentary Russian (1080p) [Not 24/7] [English] [documentary]
+http://uiptv.do.am/1ufc/300663722/playlist.m3u8
+#EXTINF:-1,RT Documentary Russian (1080p) [English] [documentary]
+https://hls.rt.com/hls/rtdru.m3u8
+#EXTINF:-1,RT Documentary (1080p) [Geo-blocked] [English] [documentary]
+https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
+#EXTINF:-1,RT en Español (1080p) [Geo-blocked] [Spanish] [news]
+https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
+#EXTINF:-1,RT France (1080p) [Geo-blocked] [French] [news]
+https://rt-fra.rttv.com/live/rtfrance/playlist.m3u8
+#EXTINF:-1,Русский Север (Вологда) (1080p) [Russian]
+http://185.186.142.16/streams.rs.m3u8
+#EXTINF:-1,С1 (Сургут) (1080p) [Not 24/7] [Russian]
+https://sitv.ru/hls/stv.m3u8
+#EXTINF:-1,Самара ГИС (1080p) [Not 24/7] [Russian]
+http://45.67.57.9:8080/new/new/playlist.m3u8
+#EXTINF:-1,Татарстан24 (1080p) [Not 24/7] [Russian]
+http://stream.efir24.tv:1935/live/efir24tv/playlist.m3u8
+#EXTINF:-1,Тивиком (Улан-Удэ) (1080p) [Not 24/7] [Russian]
+http://tvcom.stream.intelema.ru/tvcom/studio/playlist.m3u8
+#EXTINF:-1,ТКР (Рязань) (1080p) [Not 24/7] [Russian]
+http://live.tkr.cdnvideo.ru/tkr/tkr.sdp/playlist.m3u8
+#EXTINF:-1,TV BRICS Chinese (1080p) [Not 24/7] [Chinese] [general]
+https://brics.bonus-tv.ru/cdn/brics/chinese/playlist.m3u8
+#EXTINF:-1,TV BRICS English (1080p) [English] [general]
+https://brics.bonus-tv.ru/cdn/brics/english/playlist.m3u8
+#EXTINF:-1,TV BRICS Portuguese (1080p) [Portuguese] [general]
+https://brics.bonus-tv.ru/cdn/brics/portuguese/playlist.m3u8
+#EXTINF:-1,Univer TV (1080p) [Not 24/7] [Russian]
+https://cdn.universmotri.ru/live/smil:mbr.smil/playlist.m3u8
+#EXTINF:-1,Univer TV (1080p) [Russian]
+https://cdn.universmotri.ru/live/smil:univer.smil/playlist.m3u8
+#EXTINF:-1,VIVA Russia (1080p) [Not 24/7] [Russian] [music]
+https://live.prd.dlive.tv/hls/live/viva-russia.m3u8
+#EXTINF:-1,Вместе-РФ (1080p) [Geo-blocked] [Russian]
+http://cdn-01.bonus-tv.ru:8080/vmesterf/index.m3u8
+#EXTINF:-1,Вместе-РФ (1080p) [Geo-blocked] [Russian]
+http://uiptv.do.am/1ufc/118056781/playlist.m3u8
+#EXTINF:-1,Звезда (1080p) [Not 24/7] [Russian] [general]
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
+#EXTINF:-1,Bollywood HD (1080p) [Not 24/7]
+https://sc.id-tv.kz/bollywood_hd.m3u8
+#EXTINF:-1,Luxury (1080p)
+http://nano.teleservice.su:8080/hls/luxury.m3u8
+#EXTINF:-1,RT News (1080p) [Geo-blocked]
+https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
+#EXTINF:-1,КФУ ТВ (1080p) [Not 24/7]
+https://cdn.universmotri.ru/live/kfu.sdp/playlist.m3u8
+#EXTINF:-1,Наше Крутое HD (1080p) [Not 24/7]
+http://ba5729d5.krasnafhg.ru/iptv/EAEWFFWBXPVVLY/915/index.m3u8
+#EXTINF:-1,Телеканал 86 (Сургут) (1080p) [Not 24/7]
+https://sitv.ru/hls/s86.m3u8
+#EXTINF:-1,Eurodance 90 HD (1080p) [Not 24/7]
+https://eurodance90.catcast.tv/content/36987/index.m3u8
+#EXTINF:-1,Asharq News (1080p) [Arabic] [business;news]
+https://bcovlive-a.akamaihd.net/0b75ef0a49e24704a4ca023d3a82c2df/ap-south-1/6203311941001/playlist.m3u8
+#EXTINF:-1,A2i TV (1080p) [Not 24/7]
+https://stream.sen-gt.com/A2itv/myStream/playlist.m3u8
+#EXTINF:-1,CNA International (1080p) [English] [news]
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+#EXTINF:-1,CNA International (1080p) [English] [news]
+https://mediacorp-videosbclive.akamaized.net/dd724cfb0e8e4cdc921bbc4ac94614bf/ap-southeast-1/6057994443001/playlist.m3u8
+#EXTINF:-1,meWATCH LIVE 1 (1080p) [English]
+https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd
+#EXTINF:-1,TV Lux (1080p) [Not 24/7] [Slovak]
+http://live.tvlux.sk:1935/lux/lux.stream/playlist.m3u8
+#EXTINF:-1,TV Ružinov (1080p) [Not 24/7] [Slovak]
+http://lb.streaming.sk/tvruzinov/stream/playlist.m3u8
+#EXTINF:-1,Veseljak TV (1080p) [Slovenian]
+https://stream.veseljak.tv/hls/stream.m3u8
+#EXTINF:-1,BBS Buddhist Broadcasting (1080p) [Korean] [religious]
+http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
+#EXTINF:-1,BTN TV (1080p) [Korean] [religious]
+http://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
+#EXTINF:-1,GS My Shop (1080p) [Korean] [shop]
+https://gstv-myshop.gsshop.com/myshop_hd/myshop_hd.stream/playlist.m3u8
+#EXTINF:-1,GS Shop (1080p) [English] [shop]
+https://gstv-gsshop.gsshop.com/gsshop_hd/gsshop_hd.stream/playlist.m3u8
+#EXTINF:-1,GugakTV 국악방송 (1080p) [Korean] [news]
+http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
+#EXTINF:-1,SBS KBC (KBC 광주방송) (1080p) [Not 24/7] [Korean]
+http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
+#EXTINF:-1,MBC Gyeongnam (경상 MBC) (1080p) [Not 24/7] [Korean]
+https://624a79c87201d.streamlock.net/MBCTV/TV1.stream/playlist.m3u8
+#EXTINF:-1,MBC (1080p) [Not 24/7] [Korean]
+http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
+#EXTINF:-1,SBS TJB (1080p) [Not 24/7] [Korean]
+http://1.245.74.5:1935/live/tv/.m3u8
+#EXTINF:-1,WBC TV (1080p) [Korean]
+https://cdnlive179.smartucc.kr/smartlive/312/46324be24454bd98f785039457ac695d/playlist.m3u8
+#EXTINF:-1,MBC Yeosu (여수 MBC) (1080p) [Not 24/7] [Korean]
+https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
+#EXTINF:-1,GoodTV (1080p)
+http://mobliestream.c3tv.com:1935/live/goodtv.sdp/playlist.m3u8
+#EXTINF:-1,SBS KNN (KNN 부산경남대표방송) (1080p)
+http://220.95.92.160:9981/stream/channelid/1445999617
+#EXTINF:-1,7NN Noticias (1080p) [Spanish] [news]
+https://dxf45ob769xpw.cloudfront.net/out/v1/90ce358337e14be3bb82b6566b50a8b1/index.m3u8
+#EXTINF:-1,101 Tele Antequera (1080p) [Spanish] [music]
+https://limited38.todostreaming.es/live/101tv-AntequeraHD.m3u8
+#EXTINF:-1,101TV Málaga (1080p) [Not 24/7] [Spanish] [news]
+https://limited38.todostreaming.es/live/101tv-web101tv.m3u8
+#EXTINF:-1,betevé (1080p) [Catalan]
+https://cdnapisec.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/1_n6442jz0/format/applehttp/.m3u8?referrer=aHR0cHM6Ly9iZXRldmUuY2F0
+#EXTINF:-1,Canal 1 Mar Menor-Torre Pacheco (1080p) [Spanish] [general;news]
+https://directo.tuwebtv.es/canal1.m3u8
+#EXTINF:-1,Canal 4 Mallorca (1080p) [Catalan Spanish] [general]
+https://limited35.todostreaming.es/live/mitjans-livestream1.m3u8
+#EXTINF:-1,Canal 4 Catalunya (1080p) [Catalan Spanish] [general]
+https://limited35.todostreaming.es/live/mitjans-livestream.m3u8
+#EXTINF:-1,Canal Sierra de Cádiz (1080p) [Spanish]
+http://217.125.136.93:8080/canalsierradecadiz1080.m3u8
+#EXTINF:-1,Condavisión (1080p) [Not 24/7] [Spanish]
+https://5d8d85cf2c308.streamlock.net:1936/Condavision/endirecto/playlist.m3u8
+#EXTINF:-1,Diez TV (1080p) [Spanish]
+https://streaming.cloud.innovasur.es/mmj/index.m3u8
+#EXTINF:-1,IberoAmerica TV (1080p) [Spanish] [entertainment]
+https://limited39.todostreaming.es/live/salome-livestream.m3u8
+#EXTINF:-1,Imás TV (1080p) [Not 24/7] [Spanish]
+https://secure3.todostreaming.es/live/imastv-livestream.m3u8
+#EXTINF:-1,Interalmeria TV (1080p) [Spanish]
+https://interalmeria.tv/directo/live.m3u8
+#EXTINF:-1,La Ocho TV (1080p) [Spanish]
+https://streaming004.gestec-video.com/hls/8TV.m3u8
+#EXTINF:-1,Logos TV (1080p) [Not 24/7] [Spanish]
+http://streamer1.streamhost.org/salive/logosH/playlist.m3u8
+#EXTINF:-1,Logos TV (1080p) [Not 24/7] [Spanish]
+https://streamer1.streamhost.org/salive/logosH/master.m3u8
+#EXTINF:-1,Mar TV (1080p) [Catalan]
+http://iptv.services.everywan.net:8080/martv-web/video.m3u8
+#EXTINF:-1,Noroeste TV (1080p) [Not 24/7] [Spanish]
+https://cloudvideo.servers10.com:8081/8032/index.m3u8
+#EXTINF:-1,NORTEvisión (1080p) [Spanish]
+http://amaru.dyndns.org:8870/0.m3u8
+#EXTINF:-1,PTV Córdoba (1080p) [Spanish] [general]
+https://streamer.zapitv.com/PTV_CORDOBA/index.m3u8
+#EXTINF:-1,PTV Málaga (1080p) [Spanish]
+https://streamer.zapitv.com/PTV-malaga/index.m3u8
+#EXTINF:-1,PTV Sevilla (1080p) [Spanish] [general]
+https://streamer.zapitv.com/PTV_sevilla/index.m3u8
+#EXTINF:-1,Ràdio Bocairent TV (1080p) [Spanish Catalan] [general]
+http://185.81.77.4/BocairentTV/index.m3u8
+#EXTINF:-1,Radio Televisión Mogán (1080p) [Spanish]
+https://cloudvideo.servers10.com:8081/8028/index.m3u8
+#EXTINF:-1,STZ Telebista (1080p) [Basque Spanish] [music]
+https://cloudvideo.servers10.com:8081/stztelebista/index.m3u8
+#EXTINF:-1,Teleonuba (1080p) [Spanish]
+https://5d8d85cf2c308.streamlock.net:1936/Teleonuba/endirecto/playlist.m3u8
+#EXTINF:-1,Tuya La Janda Televisión (1080p) [Spanish]
+http://185.210.20.13:8080/0.m3u8
+#EXTINF:-1,TV4 La Vall (1080p) [Spanish]
+https://limited09.todostreaming.es/live/tarson-livestream.m3u8
+#EXTINF:-1,Brat TV (1080p) [English] [kids]
+https://brat-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1,Comedy Dynamics (1080p) [English] [comedy]
+https://comedydynamics-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1,Lone Star (1080p) [English] [classic]
+https://lonestar-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1,MovieSphere (1080p) [English] [movies]
+https://moviesphereuk-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1,Wonder (1080p) [English]
+https://lds-wonder-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1,EDGEsport (1080p) [Not 24/7]
+https://edgesports-row-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1,ESTV (1080p)
+https://estv-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1,MyTime movie network Spain (1080p)
+https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1,Canal Alpha Neuchatel (1080p) [Not 24/7] [German]
+https://edge.vedge.infomaniak.com/livecast/ik:canalalpha/playlist.m3u8
+#EXTINF:-1,Kanal 9 en Français (1080p) [German]
+https://edge.vedge.infomaniak.com/livecast/ik:livehd/master.m3u8
+#EXTINF:-1,Kanal 9 auf Deutsch (1080p) [German]
+https://edge.vedge.infomaniak.com/livecast/ik:livesd2/master.m3u8
+#EXTINF:-1,Kanal 9 en Français (1080p) [German]
+https://livehd.vedge.infomaniak.com/livecast/livehd/master.m3u8
+#EXTINF:-1,Kanal 9 auf Deutsch (1080p) [German]
+https://livesd2.vedge.infomaniak.com/livecast/ik:livesd2/master.m3u8
+#EXTINF:-1,La Télé (1080p) [French]
+https://edge.vedge.infomaniak.com/livecast/ik:latele/playlist.m3u8
+#EXTINF:-1,La Télé (1080p) [French]
+https://latele.vedge.infomaniak.com/livecast/latele/playlist.m3u8
+#EXTINF:-1,LFM TV (1080p) [French]
+https://edge.vedge.infomaniak.com/livecast/ik:lfmhd/manifest.m3u8
+#EXTINF:-1,LFM TV (1080p) [French]
+https://edge.vedge.infomaniak.com/livecast/ik:lfmmd/manifest.m3u8
+#EXTINF:-1,LFM TV (1080p) [French]
+https://lfmhd.vedge.infomaniak.com/livecast/lfmhd/playlist.m3u8
+#EXTINF:-1,LFM TV (1080p) [French]
+https://lfmmd.vedge.infomaniak.com/livecast/smil:lfmmd.smil/manifest.m3u8
+#EXTINF:-1,Tele 1 (1080p) [German]
+https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_xias5bqq/format/applehttp/protocol/https/a.m3u8
+#EXTINF:-1,TVM 3 (1080p) [French]
+http://livevideo.infomaniak.com/streaming/livecast/tvm3/playlist.m3u8
+#EXTINF:-1,TVM3 (1080p) [French]
+https://edge.vedge.infomaniak.com/livecast/tvm3/playlist.m3u8
+#EXTINF:-1,TVM3 (1080p) [Not 24/7] [French]
+https://tvm3.vedge.infomaniak.com/livecast/tvm3/playlist.m3u8
+#EXTINF:-1,TVBS Asia (1080p) [Chinese]
+http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
+#EXTINF:-1,ALTV (1080p) [Thai]
+https://thaipbs-ujxrch.cdn.byteark.com/live/playlist_1080p/index.m3u8
+#EXTINF:-1,NBT 2 HD (1080p) [Thai English]
+https://thainews.prd.go.th/lv/live/ch1_L.sdp/playlist.m3u8
+#EXTINF:-1,NBT 11 Central (1080p) [Thai]
+https://thainews.prd.go.th/lv/live/ch9_L.sdp/playlist.m3u8
+#EXTINF:-1,White Channel (1080p) [Thai]
+http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8
+#EXTINF:-1,NBT Bangkok (1080p) [Not 24/7]
+http://live.prd.go.th:1935/live/ch1_L.sdp/chunklist.m3u8
+#EXTINF:-1,Thai PBS (Opt-4) (1080p) [Not 24/7]
+https://thaipbs-live.cdn.byteark.com/live/playlist.m3u8
+#EXTINF:-1,Alanya Posta TV (1080p) [Turkish]
+http://win4.yayin.com.tr/postatv/postatv/playlist.m3u8
+#EXTINF:-1,Cekmeköy TV (1080p) [Turkish]
+https://cdn-cekmekoybeltv.yayin.com.tr/cekmekoybeltv/cekmekoybeltv/playlist.m3u8
+#EXTINF:-1,Cekmeköy TV [Turkish]
+https://cdn-cekmekoybeltv.yayin.com.tr/cekmekoybeltv/cekmekoybeltv_1080p/playlist.m3u8
+#EXTINF:-1,Çiftçi TV (1080p) [Not 24/7] [Turkish]
+http://stream.taksimbilisim.com:1935/ciftcitv/smil:ciftcitv.smil/playlist.m3u8
+#EXTINF:-1,ETV Manisa (1080p) [Not 24/7] [Turkish]
+https://broadcasttr.com:446/manisaetv/bant1/playlist.m3u8
+#EXTINF:-1,IBB TV (1080p) [Turkish]
+http://wowza.istweb.tv:1935/webtv/webtv_wowza1/playlist.m3u8
+#EXTINF:-1,IBB TV (1080p) [Not 24/7] [Turkish]
+https://npserver1.ibb.gov.tr/webtv/webtv_wowza1/playlist.m3u8
+#EXTINF:-1,Kanal 7 Avrupa (1080p) [Not 24/7] [Turkish]
+https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8
+#EXTINF:-1,Power Turk (1080p) [Not 24/7] [Turkish]
+https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
+#EXTINF:-1,Power TV (1080p) [Turkish]
+https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8
+#EXTINF:-1,ÜÜ TV Üsküdar Üniversitesi TV (1080p) [Not 24/7] [Turkish]
+http://uskudarunv.mediatriple.net/uskudarunv/uskudar2/playlist.m3u8
+#EXTINF:-1,Первый городской (Одесса) (1080p) [Not 24/7] [Ukrainian]
+http://91.194.79.46:8081/stream1/channel1/playlist.m3u8
+#EXTINF:-1,Skrypin.ua (1080p) [Not 24/7] [Ukrainian]
+https://open-cdn.lanet.tv/play/skrypin.m3u8
+#EXTINF:-1,Z (Запорожье) (1080p) [Ukrainian]
+https://stream.ztv.zp.ua/hls/live.m3u8
+#EXTINF:-1,НТК (1080p) [Not 24/7]
+https://stream.ntktv.ua/s/ntk/ntk.m3u8
+#EXTINF:-1,Dubai One (1080p) [English] [general]
+http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
+#EXTINF:-1,Dubai TV (1080p) [Arabic] [general]
+https://weyyak-live.akamaized.net/weyyak_dubai_tv/index.m3u8
+#EXTINF:-1,MBC 1 (1080p) [Arabic] [general]
+https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
+#EXTINF:-1,MBC 1 (1080p) [Arabic] [general]
+https://shls-live-ak.akamaized.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
+#EXTINF:-1,MBC 4 (1080p) [Arabic] [general]
+https://shls-masr-ak.akamaized.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
+#EXTINF:-1,MBC Bollywood (1080p) [Arabic] [general]
+https://shls-mbcdramaksa-ak.akamaized.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
+#EXTINF:-1,PMC (1080p) [Persian] [music]
+https://hls.pmchd.live/hls/stream.m3u8
+#EXTINF:-1,Weyyak Action (1080p) [Arabic] [movies]
+https://weyyak-live.akamaized.net/weyyak_action/index.m3u8
+#EXTINF:-1,Ahlulbayt TV (1080p) [Not 24/7] [English] [religious]
+http://109.123.126.14:1935/live/livestream1.sdp/playlist.m3u8
+#EXTINF:-1,Ahlulbayt TV (1080p) [Not 24/7] [English] [religious]
+https://5f3e23ac71915.streamlock.net:4434/live/livestream1.sdp/playlist.m3u8
+#EXTINF:-1,Alaraby 2 TV (1080p) [Arabic] [news]
+https://alaraby.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/playlist.m3u8
+#EXTINF:-1,Alaraby TV (1080p) [Arabic] [news]
+https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
+#EXTINF:-1,Jewelery Maker (1080p) [English] [lifestyle]
+https://lo2-1.gemporia.com/abrjewellerymaker/smil:livestream.smil/playlist.m3u8
+#EXTINF:-1,Magna Vision (1080p) [Not 24/7] [Malayalam] [entertainment]
+https://j78dpa3edq5r-hls-live.5centscdn.com/abr/0864028584026e6ad9cdf922473177a4/playlist.m3u8
+#EXTINF:-1,Manoto TV (1080p) [Persian] [entertainment]
+https://dh4wkqcyy8768.cloudfront.net/live.m3u8
+#EXTINF:-1,MTA3 Al-Arabia (1080p) [Arabic]
+https://chlivemta1.akamaized.net/hls/live/2010556/mta3alarabia/playlist.m3u8
+#EXTINF:-1,MTA4 Africa (1080p) [English French Urdu Swahili]
+https://chlivemta.akamaized.net/hls/live/2010555/mtaafrica1/playlist.m3u8
+#EXTINF:-1,MTA5 Africa (1080p) [English French Urdu Swahili]
+https://chlivemta.akamaized.net/hls/live/2010555/mtaafrica2/playlist.m3u8
+#EXTINF:-1,MTA6 Asia (1080p) [Urdu English Indonesian Tamil Arabic Bengali]
+https://livemtaasia.akamaized.net/hls/live/2039224/mta6asia/playlist.m3u8
+#EXTINF:-1,MTA7 Asia (1080p) [Hindi Urdu English Tamil Malayalam Arabic Bengali]
+https://livemtaasia.akamaized.net/hls/live/2039224/mtaasia2/playlist.m3u8
+#EXTINF:-1,MTA8 America (1080p) [English]
+https://chlivemta.akamaized.net/hls/live/2016718/mta8/playlist.m3u8
+#EXTINF:-1,Sky News Extra 3 (1080p) [English] [news]
+https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
+#EXTINF:-1,Takbeer TV (1080p) [Arabic]
+https://ap02.iqplay.tv:8082/iqb8002/t5kb86/playlist.m3u8
+#EXTINF:-1,TalkTV (1080p) [English]
+https://newsuk-talkradiotv-brightcove.amagi.tv/playlist.m3u8
+#EXTINF:-1,Afrobeats (1080p)
+https://stream.ecable.tv/afrobeats/index.m3u8
+#EXTINF:-1,EDGEsport (1080p) [English] [sports]
+https://edgesport-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1,Qello Concerts by Stingray (1080p)
+https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_uk_stingrayqello_001.m3u8
+#EXTINF:-1,EDGESport (1080p) [English] [sports]
+https://edgesports-sportstribal.amagi.tv/playlist.m3u8
+#EXTINF:-1,SportsGrid (1080p)
+https://sportsgrid-tribal.amagi.tv/playlist.m3u8
+#EXTINF:-1,Akaku 53 (Hawaii) (1080p) [English]
+https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch1/video.m3u8
+#EXTINF:-1,Akaku 54 (Hawaii) (1080p) [English]
+https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch2/video.m3u8
+#EXTINF:-1,Akaku 55 (Hawaii) (1080p) [English]
+https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch3/video.m3u8
+#EXTINF:-1,Al Horreya TV (1080p) [Arabic] [religious]
+http://media.smc-host.com:1935/alhorreya.tv/mp4:alhorreya3/playlist.m3u8
+#EXTINF:-1,ARTN TV (1080p) [Not 24/7] [Russian Armenian] [general]
+https://streamer1.connectto.com/ARTN_mobile/index.m3u8
+#EXTINF:-1,bspoketv (1080p) [Not 24/7] [English] [lifestyle]
+https://bspoketv.s.llnwi.net/streams/322/master.m3u8
+#EXTINF:-1,CBN Español (1080p) [Spanish] [religious]
+https://bcovlive-a.akamaihd.net/r21fb8503a4a74d098b798f16922b2a36/us-east-1/734546207001/playlist.m3u8
+#EXTINF:-1,CBN News National (1080p) [English] [religious]
+https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
+#EXTINF:-1,Christian Youth Channel (CYC) (1080p) [English] [religious]
+http://media.smc-host.com:1935/cycnow.com/cyc2/playlist.m3u8
+#EXTINF:-1,Christian Youth Channel (CYC) (1080p) [English] [religious]
+http://media3.smc-host.com:1935/cycnow.com/smil:cyc.smil/playlist.m3u8
+#EXTINF:-1,CSat TV (1080p) [Not 24/7] [English] [religious]
+http://media.smc-host.com:1935/csat.tv/smil:csat.smil/playlist.m3u8
+#EXTINF:-1,Elbeshara GTV (1080p) [Not 24/7] [Arabic] [religious]
+http://media3.smc-host.com:1935/elbesharagtv.com/gtv.smil/playlist.m3u8
+#EXTINF:-1,El Maqar (1080p) [Arabic] [religious]
+http://135.181.79.179/ElmaqarTVHD/playlist.m3u8?token=mobileuser
+#EXTINF:-1,FIGHT SPORTS (1080p) [English] [sports]
+https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8
+#EXTINF:-1,High Vision (1080p) [Not 24/7] [Persian] [music]
+https://streamer1.connectto.com/HIGHVISION_WEB_1205/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Horizon Armenian (1080p) [Armenian]
+http://5.254.76.34:17070/C441/index.m3u8?token=kdsdkwy453wrRq29IIIo
+#EXTINF:-1,It\'s Supernatural! Network (ISN Network) (1080p) [English]
+https://isntv.mmdlive.lldns.net/isntv/f79b65204e7141c6a5cc74e63cf0dae5/playlist.m3u8
+#EXTINF:-1,Mission TV (1080p) [Not 24/7] [English] [religious]
+https://6096a9cf11ae5.streamlock.net:1943/live/missiontv/playlist.m3u8
+#EXTINF:-1,National Geographic Wild Russia (1080p) [Not 24/7] [Russian] [documentary]
+https://sc.id-tv.kz/NatGeoWildHD.m3u8
+#EXTINF:-1,NBC News Now (1080p) [English] [news]
+http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8
+#EXTINF:-1,Newsy (1080p) [English] [news]
+https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/e3e6e29095844c4ba7d887f01e44a5ef/index.m3u8
+#EXTINF:-1,PBS Kids Eastern/Central (1080p) [English] [education;kids]
+https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est.m3u8
+#EXTINF:-1,People TV (1080p) [English] [entertainment]
+https://d1qaz9zojo1ayt.cloudfront.net/playlist.m3u8
+#EXTINF:-1,People TV (1080p) [English] [entertainment]
+https://peopletv-oo.akamaized.net/playlist.m3u8
+#EXTINF:-1,People TV (1080p) [English] [entertainment]
+https://peopletv-samsungus-ingest.akamaized.net/playlist.m3u8
+#EXTINF:-1,QVC 3 (1080p) [English] [shop]
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc3us/master.m3u8
+#EXTINF:-1,SKWAD (1080p) [English] [kids]
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=71
+#EXTINF:-1,TAG TV (1080p) [Not 24/7] [Hindi] [news]
+https://cdn30.liveonlineservices.com/hls/tagtv.m3u8
+#EXTINF:-1,Tastemade (1080p) [English] [cooking]
+https://tastemadessai.akamaized.net/amagi_hls_data_tastemade-tastemade/CDN/playlist.m3u8
+#EXTINF:-1,Tastemade Australia (1080p) [English] [cooking]
+https://tastemadeintaus-smindia.amagi.tv/playlist.m3u8
+#EXTINF:-1,Tastemade en Español (1080p) [Spanish] [cooking]
+https://tastemadees16intl-brightcove.amagi.tv/hls/amagi_hls_data_tastemade-tastemade-es16intl-brightcove/CDN/playlist.m3u8
+#EXTINF:-1,TD Ameritrade Network (1080p) [English] [business]
+https://content.uplynk.com/channel/f9aafa1f132e40af9b9e7238bc18d128.m3u8
+#EXTINF:-1,Techno Warehouse (US) (1080p) [Not 24/7] [English] [music]
+https://eu-nl-012.worldcast.tv/dancetelevisionthree/dancetelevisionthree.m3u8
+#EXTINF:-1,The Country Network (1080p) [English] [music]
+https://cdn.tcncountry.net/scte35_aws/index.m3u8
+#EXTINF:-1,The Love Destination (1080p) [English] [entertainment]
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=43
+#EXTINF:-1,The Retro Channel (1080p) [Not 24/7] [English] [music]
+https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
+#EXTINF:-1,VH1 (1080p) [English] [music]
+https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
+#EXTINF:-1,Yahoo! Finance (1080p) [English] [business]
+https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
+#EXTINF:-1,AXS TV NOW
+https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
+#EXTINF:-1,AXS TV Now (1080p)
+https://dikcfc9915kp8.cloudfront.net/hls/main.m3u8
+#EXTINF:-1,ESR 24x7 eSports Network (1080p)
+https://eyeonesports.com/ES2RA-628g.m3u8
+#EXTINF:-1,IMPACT! Wrestling (1080p)
+https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
+#EXTINF:-1,MCN6 (1080p) [Not 24/7]
+https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MAIN.smil/Playlist.m3u8
+#EXTINF:-1,Radio Ritmo (1080p) [Not 24/7]
+https://59514edd5dd8e.streamlock.net/lax/lax/playlist.m3u8
+#EXTINF:-1,Adult Swim Black Jesus (1080p) [Geo-blocked] [English] [series]
+http://adultswim-vodlive.cdn.turner.com/live/black-jesus/stream.m3u8
+#EXTINF:-1,Adult Swim Dream Corp LLC (1080p) [Geo-blocked] [English] [comedy]
+http://adultswim-vodlive.cdn.turner.com/live/DREAM-CORP-LLC/stream.m3u8
+#EXTINF:-1,Adult Swim Metalocalypse (1080p) [Geo-blocked] [English] [entertainment]
+http://adultswim-vodlive.cdn.turner.com/live/metalocalypse/stream.m3u8
+#EXTINF:-1,Adult Swim The Eric Andre Show (1080p) [Geo-blocked] [English] [series]
+http://adultswim-vodlive.cdn.turner.com/live/eric-andre/stream.m3u8
+#EXTINF:-1,Adult Swim Mr. Pickles (1080p) [Geo-blocked]
+http://adultswim-vodlive.cdn.turner.com/live/mr-pickles/stream.m3u8
+#EXTINF:-1,Adult Swim Rick and Morty (1080p) [Geo-blocked]
+http://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8
+#EXTINF:-1,Adult Swim Tim and Eric (1080p) [Geo-blocked]
+http://adultswim-vodlive.cdn.turner.com/tim-and-eric/stream.m3u8
+#EXTINF:-1,Adult Swim Williams Stream (1080p) [Geo-blocked]
+http://adultswim-vodlive.cdn.turner.com/live/williams-stream/stream_html5.m3u8
+#EXTINF:-1,Hard Knocks (1080p) [Not 24/7] [English] [sports]
+https://d397e8970cd346fdac04c0af81290c3a.mediatailor.us-west-2.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Hard-Knocks-DistroTV/109.m3u8
+#EXTINF:-1,Humor Mill (1080p) [Not 24/7] [English] [comedy]
+https://damkf751d85s1.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HumorMill-DistroTV/152.m3u8
+#EXTINF:-1,TD Ameritrade Network (1080p) [English] [business]
+https://tdameritrade-distro.amagi.tv/playlist.m3u8
+#EXTINF:-1,VENN (1080p) [English] [entertainment]
+https://venntv-distrotv.amagi.tv/playlist.m3u8
+#EXTINF:-1,DeFiance Media (1080p)
+https://amg01529-defiancetv-defiancemedia-glewed-tre8x.amagi.tv/playlist.m3u8
+#EXTINF:-1,Estrella TV (1080p)
+https://estrellatv-glewed.amagi.tv/playlist.m3u8
+#EXTINF:-1,Loveland TV (Loveland CO) (1080p) [English] [general]
+https://reflect-cityofloveland-co.cablecast.tv/live-3/live/live.m3u8
+#EXTINF:-1,DC Council Channel (1080p) [English] [legislative]
+https://video.oct.dc.gov/out/u/15_12.m3u8
+#EXTINF:-1,DC.gov DCC (Washington DC) (1080p) [English] [legislative]
+https://video.oct.dc.gov/out/u/DCC.m3u8
+#EXTINF:-1,DC.gov Council Hearing Room 120 (Washington DC) (1080p) [English] [legislative]
+https://video.oct.dc.gov/out/u/97_12.m3u8
+#EXTINF:-1,District of Columbia Network (DCN) (1080p) [English] [legislative]
+https://video.oct.dc.gov/out/u/DCN.m3u8
+#EXTINF:-1,DC.gov DKN (Washington DC) (1080p) [English] [education]
+https://video.oct.dc.gov/out/u/DKN.m3u8
+#EXTINF:-1,Jacksonville Onslow Government Television (G10TV) (Jacksonville NC) (1080p) [English] [legislative]
+http://jacksonville.cablecast.tv/live-6/live/live.m3u8
+#EXTINF:-1,KBEV Spectrum Channel 6 [Beverly Hills] (1080p) [English Spanish] [education]
+https://s3-us-west-2.amazonaws.com/beverly-hills-high-school.castus-vod/live/ch1/video.m3u8
+#EXTINF:-1,KidsFlix (1080p) [Not 24/7] [English] [kids]
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
+#EXTINF:-1,LA CityView 35 (1080p) [English Spanish] [legislative]
+https://reflect-losangeles.cablecast.tv/live-3/live/live.m3u8
+#EXTINF:-1,Marin TV Community Channel (San Rafael CA) (1080p) [English Spanish] [general]
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/8e6d110b223b4aca9dd6f7c368baec07/playlist.m3u8
+#EXTINF:-1,Marin TV Educational Channel (San Rafael CA) (1080p) [English Spanish] [education]
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/6930291b02344cc88fec20504849dafd/playlist.m3u8
+#EXTINF:-1,Marin TV Government Channel (San Rafael CA) (1080p) [English Spanish] [legislative]
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/ddf2a073e3da4acb9feb34bef6d58672/playlist.m3u8
+#EXTINF:-1,MCN6 Arts Channel (1080p) [Not 24/7] [English] [culture;education]
+https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_COMEDY.smil/Playlist.m3u8
+#EXTINF:-1,MCN6 Music Channel (1080p) [Not 24/7] [English] [music;animation;kids]
+https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MUSIC.smil/Playlist.m3u8
+#EXTINF:-1,Monroe County Television MCTV (Monroe County FL) (1080p) [English] [legislative]
+https://castus-vod-dev.s3.amazonaws.com/vod_clients/monroe/live/ch1/video.m3u8
+#EXTINF:-1,Manatee Schools Television MSTV (Manatee County FL) (1080p) [English] [education]
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/3659c04b92f04b808b0bc36d1d23aeb7/index.m3u8
+#EXTINF:-1,Temecula TV (Temecula CA) (1080p) [English]
+https://reflect-temecula.cablecast.tv/live-2/live/live.m3u8
+#EXTINF:-1,WTWC (News) [English]
+https://content.uplynk.com/channel/aa92b664ac5941de81cd410803329da2.m3u8
+#EXTINF:-1,CCX Media North Brooklyn Park MN (1080p)
+http://156.142.85.152/live/live.m3u8
+#EXTINF:-1,Estrella News (1080p) [Spanish] [news]
+https://estrellanews-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1,Hard Knocks (1080p) [Not 24/7] [English] [sports]
+https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HardKnocks-PLEX/121.m3u8
+#EXTINF:-1,Hi-YAH! (1080p) [English] [entertainment]
+https://linear-59.frequency.stream/dist/plex/59/hls/master/playlist.m3u8
+#EXTINF:-1,Humor Mill (1080p) [Not 24/7] [English] [comedy]
+https://damkf751d85s1.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HumorMill-PLEX/152.m3u8
+#EXTINF:-1,IGN (1080p) [English] [entertainment]
+https://ign-plex.amagi.tv/hls/amagi_hls_data_ignAAAAAA-ign-plexA/CDN/playlist.m3u8
+#EXTINF:-1,IGN (1080p) [English] [entertainment]
+https://ign-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1,Midnight Pulp (1080p) [English] [entertainment]
+https://369f2966f62841f4affe37d0b330a13c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_MidnightPulp/playlist.m3u8?ads.app_bundle=&ads.app_store_url=&ads.consent=0&ads.gdpr=0&ads.plex_id=5ef4e1b40d9ad000423c4427&ads.plex_token=z1MCPUpbxYcHru-5hdyq&ads.psid=&ads.targetopt=1&ads.ua=Mozilla/5.0+(Windows+NT+10.0;
+#EXTINF:-1,MovieSphere (1080p) [English] [movies]
+https://moviesphere-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1,Museum TV Fast (1080p) [English] [culture]
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtv-en-plex/playlist.m3u8
+#EXTINF:-1,Newsmax (1080p) [English] [news]
+https://newsmax-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-newsmax-plex/CDN/playlist.m3u8
+#EXTINF:-1,Popstar! TV (1080p) [Not 24/7] [English] [entertainment]
+https://linear-10.frequency.stream/dist/plex/10/hls/master/playlist.m3u8
+#EXTINF:-1,Real Families (1080p) [English] [family]
+https://lds-realfamilies-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1,Timeline (1080p) [English] [entertainment]
+https://lds-timeline-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1,World Poker Tour (1080p) [Not 24/7] [English] [sports]
+https://dth07jsr8atug.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-Plex/171.m3u8
+#EXTINF:-1,EDGEsport (1080p)
+https://edgesports-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1,Estrella TV East (1080p)
+https://estrellatv-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1,Real Stories (1080p)
+https://lds-realstories-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1,RetroCrush TV (1080p)
+https://45034ce1cbb7489ab1499301f6274415.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RetroCrush/playlist.m3u8?ads.app_bundle=&ads.app_store_url=&ads.consent=0&ads.gdpr=0&ads.plex_id=5ef4e1b40d9ad000423c442a&ads.plex_token=z1MCPUpbxYcHru-5hdyq&ads.psid=&ads.targetopt=1&ads.ua=Mozilla/5.0+(Windows+NT+10.0;
+#EXTINF:-1,SportsGrid (1080p)
+https://sportsgrid-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1,MST3K (1080p) [English] [comedy]
+https://mst3k-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-mst3k/CDN/playlist.m3u8
+#EXTINF:-1,Redbox 2: Comedy (1080p) [English] [comedy]
+https://comedy-redbox.amagi.tv/playlist.m3u8
+#EXTINF:-1,Redbox 3: Rush (1080p) [English]
+https://rush-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-rush/CDN/playlist.m3u8
+#EXTINF:-1,Redbox 3: Rush (1080p) [English]
+https://rush-redbox.amagi.tv/playlist.m3u8
+#EXTINF:-1,Redbox 1: Spotlight (1080p) [English] [movies]
+https://spotlight-redbox.amagi.tv/playlist.m3u8
+#EXTINF:-1,Shout! Factory TV (1080p) [English] [general]
+http://shoutfactory-redbox.amagi.tv/playlist.m3u8
+#EXTINF:-1,Shout! Factory TV (1080p) [English] [general]
+https://shoutfactory-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-shoutfactorytv/CDN/playlist.m3u8
+#EXTINF:-1,Tastemade France (1080p) [French] [cooking]
+https://tastemadefr16min-redbox.amagi.tv/hls/amagi_hls_data_tastemade-tastemadefreetv16-redbox/CDN/playlist.m3u8
+#EXTINF:-1,Pac 12 Insider (1080p) [Not 24/7]
+https://pac12-redbox.amagi.tv/hls/amagi_hls_data_pac-12AAA-pac12-redbox/CDN/playlist.m3u8
+#EXTINF:-1,Circle (1080p) [English] [entertainment]
+https://circle-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1,Estrella News (1080p) [Spanish] [news]
+https://estrellanews-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1,Fox Soul (1080p) [Not 24/7] [English] [culture]
+http://fox-foxsoul-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1,Hi-YAH! (1080p) [English] [entertainment]
+https://linear-59.frequency.stream/dist/roku/59/hls/master/playlist.m3u8
+#EXTINF:-1,iFood.TV (1080p) [English] [cooking]
+https://ft-ifood-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1,Lego Channel (1080p) [English] [kids]
+https://legochannel-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1,MovieSphere (1080p) [English] [movies]
+https://moviesphere-roku.amagi.tv/hls/amagi_hls_data_lionsgate-moviesphere-roku-us/CDN/playlist.m3u8
+#EXTINF:-1,MovieSphere (1080p) [English] [movies]
+https://moviesphere-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1,MST3K (1080p) [English] [comedy]
+https://mst3k-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1,OAN (1080p) [English] [news]
+http://oneamericanews-roku-us.amagi.tv/playlist.m3u8
+#EXTINF:-1,The Carol Burnett Show (1080p) [English] [classic]
+https://carolburnett-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1,The Craftistry (1080p) [English] [lifestyle]
+https://studio71-craftistry-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1,Xplore (1080p) [English] [entertainment]
+https://xplore-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1,Estrella TV East (1080p)
+https://estrellatv-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1,Pac 12 Insider (1080p)
+https://pac12-roku-us.amagi.tv/playlist.m3u8
+#EXTINF:-1,Pinkfong Baby Shark (1080p)
+https://fc2f8d2d3cec45bb9187e8de15532838.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_BabySharkTV/playlist.m3u8
+#EXTINF:-1,Brat TV (1080p) [English] [kids]
+https://brat-samsung-us.amagi.tv/playlist.m3u8
+#EXTINF:-1,Buzzr (1080p) [English] [entertainment]
+https://buzzr-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1,Estrella News (1080p) [Spanish] [news]
+https://estrellanews-samsung-us.amagi.tv/playlist.m3u8
+#EXTINF:-1,Fox Soul (1080p) [English] [culture]
+https://fox-foxsoul-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1,InTrouble (1080p) [English]
+https://introuble-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1,MovieSphere (1080p) [English] [movies]
+https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1,VENN (1080p) [English] [entertainment]
+https://venntv-rakuten-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1,Xplore (1080p) [English] [entertainment]
+http://xlpore-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1,Yahoo! Finance (1080p) [English] [business]
+https://yahoo-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1,EDGEsport (1080p)
+https://edgesport-rakuten-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1,EDGEsport (1080p)
+https://edgesport-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1,ESTV (1080p)
+https://estv-rakuten-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1,MyTime movie network (1080p)
+https://mytimeuk-rakuten-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1,Pac 12 Insider (1080p)
+https://pac12-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1,Bloomberg TV (1080p) [Not 24/7] [English] [business]
+https://dai.google.com/linear/hls/event/NiumF4GTSGe-pXM-iMsP0A/master.m3u8
+#EXTINF:-1,Buzzr (1080p) [English] [entertainment]
+https://dai.google.com/linear/hls/event/wFZ1ufQ8ToaSdPgGtbBbpw/master.m3u8
+#EXTINF:-1,STIRR CineLife (1080p) [English] [lifestyle]
+https://dai.google.com/linear/hls/event/PFJ1Jhd6SsSMcu3qq86wzQ/master.m3u8
+#EXTINF:-1,CineLife (1080p) [English] [lifestyle]
+https://magselect-stirr.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1,STIRR Classica (1080p) [English] [music]
+https://dai.google.com/linear/hls/event/AaFxJXOhQl-BsTVC9OCunQ/master.m3u8
+#EXTINF:-1,STIRR Comedy Dynamics (1080p) [English] [comedy]
+https://dai.google.com/linear/hls/event/NJK_yxrcTBqULaHt-wi0Wg/master.m3u8
+#EXTINF:-1,Dabl (1080p) [English] [lifestyle]
+http://dai.google.com/linear/hls/event/oIKcyC8QThaW4F2KeB-Tdw/master.m3u8
+#EXTINF:-1,STIRR Docurama (1080p) [Not 24/7] [English] [documentary]
+https://dai.google.com/linear/hls/event/Hx_PEMEsSzOCcZgy0Tq2YQ/master.m3u8
+#EXTINF:-1,Dove Channel (1080p) [English] [family]
+https://dai.google.com/linear/hls/event/dfbBGQhPQQqypdEAjpUGlA/master.m3u8
+#EXTINF:-1,Dust (1080p) [English] [movies]
+https://dai.google.com/linear/hls/event/xuMJ1vhQQDGjEWlxK9Qh4w/master.m3u8
+#EXTINF:-1,STIRR Electric Now (1080p) [Not 24/7] [English] [entertainment]
+https://dai.google.com/linear/hls/event/KsvJAc81Qoewj6opYso6Fw/master.m3u8
+#EXTINF:-1,ET Live (1080p) [English] [entertainment]
+https://dai.google.com/linear/hls/event/xrVrJYTmTfitfXBQfeZByQ/master.m3u8
+#EXTINF:-1,STIRR EVRGRN (1080p) [English] [lifestyle]
+https://dai.google.com/linear/hls/event/TDUiZE57Q3-CS7Its4kLDQ/master.m3u8
+#EXTINF:-1,LIVExLIVE (1080p) [English] [lifestyle]
+https://dai.google.com/linear/hls/event/xC8SDBfbTKCTCa20kFJQXQ/master.m3u8
+#EXTINF:-1,STIRR Mystery Science Theater 3000 (1080p) [English] [comedy]
+https://dai.google.com/linear/hls/event/rmBGeSwhQEG64TrT0_JO2A/master.m3u8
+#EXTINF:-1,STIRR Outside TV (1080p) [English] [outdoor]
+https://dai.google.com/linear/hls/event/HJAq3zH1SUy_B6fb1j80_Q/master.m3u8
+#EXTINF:-1,STIRR People TV (1080p) [English] [entertainment]
+https://dai.google.com/linear/hls/event/Fe9LYYCFR5Csif-I5dyMHg/master.m3u8
+#EXTINF:-1,STIRR Popstar! TV (1080p) [English] [entertainment]
+https://dai.google.com/linear/hls/event/cJFuxTLzQUqbGGrqTMBJuw/master.m3u8
+#EXTINF:-1,Quicktake (1080p) [Not 24/7] [English]
+https://dai.google.com/linear/hls/event/6ANW1HGeSTKzJlnAa9u1AQ/master.m3u8
+#EXTINF:-1,Shout! Factory TV (1080p) [English] [general]
+https://dai.google.com/linear/hls/event/JX5KKhKKRPqchP3LfXD-1A/master.m3u8
+#EXTINF:-1,So...Real (1080p) [English] [lifestyle]
+https://dai.google.com/linear/hls/event/VMzvtHhOQdOAzbV_hQKQbQ/master.m3u8
+#EXTINF:-1,Sports TV Plus (1080p) [English] [sports]
+https://dai.google.com/linear/hls/event/9FKrAqCfRvGfn3tPbVFO-g/master.m3u8
+#EXTINF:-1,Sportswire (1080p) [English] [sports]
+https://dai.google.com/linear/hls/event/8R__yZf7SR6yMb-oTXgbEQ/master.m3u8
+#EXTINF:-1,Stingray Classic Rock (1080p) [English] [music]
+https://stirr.ott-channels.stingray.com/101/master.m3u8
+#EXTINF:-1,Stingray Flashback 70s (1080p) [English] [music]
+https://stirr.ott-channels.stingray.com/115/master.m3u8
+#EXTINF:-1,Stingray Hit List (1080p) [English] [music]
+https://stirr.ott-channels.stingray.com/107/master.m3u8
+#EXTINF:-1,Stingray Holiday Hits (1080p) [English] [music]
+https://stirr.ott-channels.stingray.com/155/master.m3u8
+#EXTINF:-1,Stingray Hot Country (1080p) [English] [music]
+https://stirr.ott-channels.stingray.com/108/master.m3u8
+#EXTINF:-1,Stingray Naturescape (1080p) [English Turkish] [music]
+https://dai.google.com/linear/hls/event/6RPZlzksTCyB1euPqLcBZQ/master.m3u8
+#EXTINF:-1,STIRR Stingray Rock Alternative (1080p) [English] [music]
+https://ott-linear-channels.stingray.com/hls/stirr/102.m3u8
+#EXTINF:-1,STIRR Stingray Today\'s Latin Pop (1080p) [English] [music]
+https://ott-linear-channels.stingray.com/hls/stirr/190.m3u8
+#EXTINF:-1,STIRR Stingray Urban Beat (1080p) [English] [music]
+https://ott-linear-channels.stingray.com/hls/stirr/133.m3u8
+#EXTINF:-1,The First (1080p) [English] [news]
+https://dai.google.com/linear/hls/event/nX39-giHRPuKQiVAhua0Kg/master.m3u8
+#EXTINF:-1,Waypoint TV (1080p) [English] [outdoor]
+https://dai.google.com/linear/hls/event/im0MqOKRTHy9nVa1sirQSg/master.m3u8
+#EXTINF:-1,beIN Sports Xtra (1080p)
+https://dai.google.com/linear/hls/event/3e-9BOvHQrCI9hboMYjb6w/master.m3u8
+#EXTINF:-1,Cheddar News (1080p)
+https://dai.google.com/linear/hls/event/frfwucAPTVunrpitYiymwg/master.m3u8
+#EXTINF:-1,Chicken Soup For The Soul (1080p)
+https://dai.google.com/linear/hls/event/2C5P0JGUSj65s8KpeyIDcQ/master.m3u8
+#EXTINF:-1,Qello Concerts (1080p)
+https://dai.google.com/linear/hls/event/BakMHO8xRSmGKYeiyhsq3A/master.m3u8
+#EXTINF:-1,Stingray Djazz (1080p)
+https://dai.google.com/linear/hls/event/C-lfmhUVTGeDNWwU13_EgA/master.m3u8
+#EXTINF:-1,Stingray Everything 80s (1080p)
+https://stirr.ott-channels.stingray.com/128/master.m3u8
+#EXTINF:-1,STIRR Gusto TV (1080p)
+https://dai.google.com/linear/hls/event/tdSCy5u2R5WtCLXX4NwDtg/master.m3u8
+#EXTINF:-1,STIRR Stingray Pop Adult (1080p)
+https://ott-linear-channels.stingray.com/hls/stirr/104.m3u8
+#EXTINF:-1,USA Today (1080p)
+https://dai.google.com/linear/hls/event/gJJhuFTCRo-HAHYsffb3Xg/master.m3u8
+#EXTINF:-1,Bloody Disgusting (1080p) [English] [movies]
+https://bloodydisgusting-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1,Docurama (1080p) [English] [documentary]
+https://docurama-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1,Dove Channel (1080p) [English] [family]
+https://dovenow-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1,So... Real (1080p) [English] [lifestyle]
+https://soreal-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1,Unbeaten (1080p) [English] [sports]
+https://unbeaten-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1,MyTime movie network (1080p)
+https://mytime-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1,Ameritrade (1080p) [Not 24/7] [English] [business]
+https://tdameritrade-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1,Circle (1080p) [English] [entertainment]
+https://circle-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1,Fox Soul (1080p) [English] [culture]
+https://foxsoul-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1,HNC Free (1080p) [English]
+https://hncfree-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1,Spotlight (1080p) [English] [movies]
+https://spotlight-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1,The Carol Burnett Show (1080p) [English] [classic]
+https://carolburnett-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1,VENN (1080p) [English] [entertainment]
+https://venntv-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1,SportsGrid (1080p)
+https://sportsgrid-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1,Xplore (1080p)
+https://xplore-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1,Black News Channel (1080p) [English] [news]
+http://redbox-blacknewschannel-xumo.amagi.tv/playlist.m3u8
+#EXTINF:-1,Black News Channel (1080p) [English] [news]
+https://blacknewschannel-xumo-us.amagi.tv/hls/amagi_hls_data_blacknews-blacknewschannel-xumo/CDN/master.m3u8
+#EXTINF:-1,Black News Channel (1080p) [English] [news]
+https://blacknewschannel-xumo-us.amagi.tv/playlist.m3u8
+#EXTINF:-1,Black News Channel (1080p) [English] [news]
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxblacknewschannel/CDN/playlist.m3u8
+#EXTINF:-1,Circle (1080p) [English] [entertainment]
+https://circle-xumo.amagi.tv/playlist.m3u8
+#EXTINF:-1,Circle (1080p) [English] [entertainment]
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcircletv/CDN/playlist.m3u8
+#EXTINF:-1,Crackle (XUMO) (1080p) [English] [movies]
+http://crackle-xumo.amagi.tv/playlist.m3u8
+#EXTINF:-1,Electric Now (1080p) [English] [entertainment]
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-electricnow/CDN/master.m3u8
+#EXTINF:-1,Outside TV (1080p) [English] [outdoor]
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxoutsidetv/CDN/playlist.m3u8
+#EXTINF:-1,Outside TV Plus (1080p) [English] [outdoor]
+https://outsidetvplus-xumo.amagi.tv/hls/amagi_hls_data_outsidetv-outsidetvplusxumo/CDN/master.m3u8
+#EXTINF:-1,Outside TV Plus (1080p) [English] [outdoor]
+https://outsidetvplus-xumo.amagi.tv/playlist.m3u8
+#EXTINF:-1,People TV (1080p) [English] [entertainment]
+https://peopletvssai.akamaized.net/amagi_hls_data_peopletvA-peopletvxumo/CDN/master.m3u8
+#EXTINF:-1,Shout! Factory TV (1080p) [English] [general]
+https://shoutfactory-xumo.amagi.tv/playlist.m3u8
+#EXTINF:-1,So Yummy! (1080p) [English] [cooking]
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxsoyummy/CDN/playlist.m3u8
+#EXTINF:-1,So Yummy! (1080p) [English] [cooking]
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-soyummy-xumo/CDN/master.m3u8
+#EXTINF:-1,Stingray Ambience (1080p) [English] [music]
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziostingrayambiance/CDN/playlist.m3u8
+#EXTINF:-1,Stingray Classic Rock (1080p) [Not 24/7] [English] [music]
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingrayclassicrock/CDN/playlist.m3u8
+#EXTINF:-1,Stingray Classic Rock (1080p) [English] [music]
+https://xumo-redbox.ott-channels.stingray.com/101/master.m3u8
+#EXTINF:-1,Stingray Greatest Hits (1080p) [English] [music]
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingraygreatesthits/CDN/playlist.m3u8
+#EXTINF:-1,Stingray Greatest Hits (1080p) [English] [music]
+https://xumo-redbox.ott-channels.stingray.com/155/master.m3u8
+#EXTINF:-1,Stingray Hit List (1080p) [English] [music]
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingrayhitlist/CDN/playlist.m3u8
+#EXTINF:-1,Stingray Hit List (1080p) [English] [music]
+https://xumo-redbox.ott-channels.stingray.com/107/master.m3u8
+#EXTINF:-1,Stingray Hot Country (1080p) [English] [music]
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingrayhotcountry/CDN/playlist.m3u8
+#EXTINF:-1,Stingray Hot Country (1080p) [English] [music]
+https://xumo-redbox.ott-channels.stingray.com/108/master.m3u8
+#EXTINF:-1,Stingray Soul Storm (1080p) [English] [music]
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingraysoulstorm/CDN/playlist.m3u8
+#EXTINF:-1,Stingray Soul Storm (1080p) [English] [music]
+https://xumo-redbox.ott-channels.stingray.com/134/master.m3u8
+#EXTINF:-1,Tastemade (1080p) [English] [cooking]
+https://tastemade-xumo.amagi.tv/hls/amagi_hls_data_tastemade-tastemadefreetv16xumo/CDN/master.m3u8
+#EXTINF:-1,The Bob Ross Channel (1080p) [English] [series]
+https://bobross-xumous-ingest.cinedigm.com/master.m3u8
+#EXTINF:-1,The Bob Ross Channel (1080p) [English] [series]
+https://bobross-xumous.cinedigm.com/midroll/amagi_hls_data_xumo-host-bobross-xumo/CDN/master.m3u8
+#EXTINF:-1,The Bob Ross Channel (1080p) [English] [series]
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbobross/CDN/playlist.m3u8
+#EXTINF:-1,The Young Turks (TYT) (1080p) [Not 24/7] [English] [news]
+https://tyt-xumo-us.amagi.tv/hls/amagi_hls_data_tytnetwor-tyt-xumo/CDN/master.m3u8
+#EXTINF:-1,ION Mystery (1080p)
+https://scripps-ionmystery-1-us.xumo.wurl.tv/playlist.m3u8
+#EXTINF:-1,SportsGrid (1080p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumosportsgrid/CDN/master.m3u8
+#EXTINF:-1,Stingray Qello Concerts (1080p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-vizioqelloconcerts/CDN/playlist.m3u8
+#EXTINF:-1,Cantina TV (1080p) [Spanish] [music]
+https://vcp.myplaytv.com/cantinatv/cantinatv/playlist.m3u8
+#EXTINF:-1,Panavisión (1080p) [Spanish]
+https://vcp.myplaytv.com/panavision/panavision/playlist.m3u8
+#EXTINF:-1,PromarTV (Yaracuy) (1080p) [Not 24/7] [Spanish] [general]
+http://vcp1.myplaytv.com:1935/promar/promar/playlist.m3u8
+#EXTINF:-1,Da Nang TV1 (1080p) [Not 24/7] [Vietnamese]
+http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8
+#EXTINF:-1,Da Nang TV2 (1080p) [Not 24/7] [Vietnamese]
+http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8
+ 
